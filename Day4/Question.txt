@@ -1,0 +1,22 @@
+1) Create a new Project- College
+Create a new Student Class
+Student
+Properties -    Id, Name, Date Of Birth, Phone, Email
+Behaviour - DisplayID
+             This method should print the student's details in proper format
+Example
+-------------------------------------
+Id : 101	Name: Ramu
+Date Of Birth : 12-July-2001
+Phone : 9876543210
+Email : ramu@gmail.com
+------------------------------------
+
+
+
+2) https://app.codility.com/programmers/
+Lesson 1 and 2
+
+
+
+   

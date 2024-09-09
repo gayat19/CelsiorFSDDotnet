@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day4\FirstSolution\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
