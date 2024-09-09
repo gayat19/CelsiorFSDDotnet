@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GenSpark\\Celsior\\Participants\\Day4\\FirstSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E8A4EE-8361-48D6-9B71-DB5252B9BD4D}|FirstApp\\FirstApp.csproj|d:\\genspark\\celsior\\participants\\day4\\firstsolution\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E8A4EE-8361-48D6-9B71-DB5252B9BD4D}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GenSpark\\Celsior\\Participants\\Day4\\FirstSolution\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
+              "ToolTip": "D:\\GenSpark\\Celsior\\Participants\\Day4\\FirstSolution\\FirstApp\\Program.cs",
+              "RelativeToolTip": "FirstApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:12:01.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
