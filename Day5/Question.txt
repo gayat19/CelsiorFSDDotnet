@@ -1,0 +1,12 @@
+Create an Application that will
+1) Take 10 numbers from user and find the average of numbers that are divisible by 7
+2) Take min and max value from user and find all the prime numbers in the range
+3) Take number from user until user enters -1. Print all the numbers that end with 3 or divisible by 3
+4) Take input from user(max 9999) and print the number in words
+example
+1023 - One Thousand and Twenty Three
+2841 - Two Thousand Eight Hundred and Forty One
+
+5) Create and application that will be used for Expense Tracking of Employees in a company
+Create the Employee and the Expense class(Models) now with the appropriate attributes and behaviour
+

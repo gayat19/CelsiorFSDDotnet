@@ -4,3 +4,12 @@ Platform Independent
 
 https://github.com/dotnet/core - Dotnet core source code
 
+Creation of class
+Creation of members in class
+Creating Object
+Access Members
+Access Specifiers
+
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes
+
+

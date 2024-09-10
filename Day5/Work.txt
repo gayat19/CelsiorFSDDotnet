@@ -1,0 +1,26 @@
+FSD
+
+Frontend
+Backend
+Database
+
+
+Garbage Collection
+DRY - Don't Repeat Yourself
+
+Contructor
+PArametrized constructor
+Default constructor
+Constructor Overloading
+
+
+Inheritance
+  Base<- Child
+Polymorphism
+Static Polymorphism
+	Same method different parameters - number, order, datatype change - Overloading
+Dynamic polymorphism
+	Same method in parent which has to be marked virtual will have a changed functionality in the child
+
+Array
+

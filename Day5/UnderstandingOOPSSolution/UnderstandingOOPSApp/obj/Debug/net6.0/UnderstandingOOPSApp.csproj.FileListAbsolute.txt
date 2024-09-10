@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\bin\Debug\net6.0\UnderstandingOOPSApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\bin\Debug\net6.0\UnderstandingOOPSApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\bin\Debug\net6.0\UnderstandingOOPSApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\bin\Debug\net6.0\UnderstandingOOPSApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\bin\Debug\net6.0\UnderstandingOOPSApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\refint\UnderstandingOOPSApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\UnderstandingOOPSApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day5\UnderstandingOOPSSolution\UnderstandingOOPSApp\obj\Debug\net6.0\ref\UnderstandingOOPSApp.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Issue.cs",
+              "RelativeDocumentMoniker": "UnderstandingOOPSApp\\Issue.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Issue.cs",
+              "RelativeToolTip": "UnderstandingOOPSApp\\Issue.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:42:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Employee.cs",
+              "RelativeDocumentMoniker": "UnderstandingOOPSApp\\Employee.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Employee.cs",
+              "RelativeToolTip": "UnderstandingOOPSApp\\Employee.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:33:33.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingOOPSApp\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Program.cs",
+              "RelativeToolTip": "UnderstandingOOPSApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:14:42.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
