@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnderstandingOOPSApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571b6c65b6cd73a97f7e8c73228c1999d60cbc04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2734d638bf7609c1c4675956b46a6d3504b178de")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnderstandingOOPSApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnderstandingOOPSApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

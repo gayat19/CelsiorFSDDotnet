@@ -24,3 +24,283 @@ Dynamic polymorphism
 
 Array
 
+------------------------------------------------
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal class Employee
+    {
+        //default constructor   
+        public Employee()
+        {
+           
+        }
+        //ctrl+.
+        //contructor with parameters - parametrized constructor
+        public Employee(int id, string name, string designation, double salary, DateTime dateOfBirth, int totalLeave)
+        {
+            Id = id;
+            Name = name;
+            Designation = designation;
+            Salary = salary;
+            DateOfBirth = dateOfBirth;
+            TotalLeave = totalLeave;
+        }
+
+ 
+
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Designation { get; set; } = string.Empty;
+        public double Salary { get; set; }
+        public DateTime DateOfBirth { get; set; }
+        public int TotalLeave { get; set; }
+        public void DoWork()
+        {
+            Console.WriteLine("Employee does his work");
+        }
+        private double num1;//private member
+        public void TakeLeave()
+        {
+            num1 = 10;//Can access privete member inside the same class
+            if (TotalLeave > 0)
+            {
+                TotalLeave--;
+                Console.WriteLine($"{Name} takes leave. Remaining leave - {TotalLeave}");
+            }
+            else
+            {
+                Console.WriteLine($"{Name} has no leave balance");
+            }
+        }
+        public override string ToString()
+        {
+            return $"Id: {Id}, Name: {Name}, Designation: {Designation}, Salary: {Salary}, DateOfBirth: {DateOfBirth}, TotalLeave: {TotalLeave}";
+        }
+    }
+
+}
+------------------------------------------------------
+namespace UnderstandingOOPSApp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           var employee = new Employee(1, "John", "Manager", 50000, new DateTime(1980, 1, 1), 20);
+            Console.WriteLine(employee.Name);
+        }
+    }
+}
+-------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Channels;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+
+    
+    internal class Issue 
+    {
+       
+        //ctor
+        public Issue()
+        {
+
+        }
+        public Issue(int id, string title, string description, int reportedBy)
+        {
+            Id = id;
+            Title = title;
+            Description = description;
+            ReportedBy = reportedBy;
+            CreatedDate = DateTime.Now;
+            Status = "Just Created";
+            ClosedDate = null;
+        }
+
+        public int Id { get; set; }
+        public string Title { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
+        public int ReportedBy { get; set; }
+        public int? AssignedTo { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public string Status { get; private set; } = string.Empty;
+        public DateTime? ClosedDate { get; set; }
+        public bool ChangeStatus(string newStatus)
+        {
+            if (Status == "Closed")
+            {
+                Console.WriteLine("Cannot change staus as the issue is closed. Please raise a new Issue");
+                return false;
+            }
+            Status = newStatus;
+            if (newStatus == "Closed")
+            {
+                ClosedDate = DateTime.Now;
+                Console.WriteLine($"Issue with {Id} is maked as Closed");
+            }
+            return true;
+        }
+        public bool AssignIssue(int assignedTo)
+        {
+            if (Status == "Closed")
+            {
+                Console.WriteLine("Cannot assign issue as the issue is closed. Please raise a new Issue");
+                return false;
+            }
+            if (ReportedBy == assignedTo)
+            {
+                Console.WriteLine("Cannot assign issue to the same person who reported the issue");
+                return false;
+            }
+            AssignedTo = assignedTo;
+            Console.WriteLine($"Issue with {Id} successfully Assigned to {AssignedTo}");
+            return true;
+        }
+        public void PrintIssueDetails()
+        {
+            var issueDetails = $"Issue Id: {Id}\nTitle: {Title}\nDescription: {Description}\nReported By: {ReportedBy}\nAssigned To: {AssignedTo}\nCreated Date: {CreatedDate}\nStatus: {Status}\nClosed Date: ";
+            issueDetails += ClosedDate == null ? "-" : ClosedDate;//ternary operator
+            Console.WriteLine(issueDetails);
+
+        }
+        public override string ToString()
+        {
+            var issueDetails = $"Issue Id: {Id}\nTitle: {Title}\nDescription: {Description}\nReported By: {ReportedBy}\nAssigned To: {AssignedTo}\nCreated Date: {CreatedDate}\nStatus: {Status}\nClosed Date: ";
+            issueDetails += ClosedDate == null ? "-" : ClosedDate;//ternary operator
+            return issueDetails;
+
+        }
+    }
+}
+----------------------------------------------
+int? num1 = null;//nullalbe type
+int num2 = 100;//non-nullable type
+num1 = num2;//non-nullable type to nullable type - no casting required
+num2 = (int)num1;//Explicit casting to a non-nullable type
+---------------------------------------		
+namespace UnderstandingOOPSApp
+{
+    internal class Program
+    {
+
+        //create employee object by getting data from user in console and retuyrn back teh object
+        Employee CreateEmployee()
+        {
+            var employee = new Employee();
+            Console.WriteLine("Please enter the employee Id");
+            employee.Id = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter the employee Name");
+            employee.Name = Console.ReadLine()??"";
+            Console.WriteLine("Please enter the employee Designation");
+            employee.Designation = Console.ReadLine()??"";
+            Console.WriteLine("Please enter the employee Salary");
+            employee.Salary = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Please enter the employee Date of Birth");
+            employee.DateOfBirth = Convert.ToDateTime(Console.ReadLine());
+            Console.WriteLine("Please enter the employee Total Leave");
+            employee.TotalLeave = Convert.ToInt32(Console.ReadLine());
+            return employee;
+        }
+        static void Main(string[] args)
+        {
+               var program = new Program();
+            //Employee employee1 = new Employee(101, "John", "Manager", 50000, new DateTime(1980, 1, 1), 10);
+            ////Employee employee2 = new Program().CreateEmployee();//anonymous object does not have any reference
+            //Employee employee2 = new Employee(102, "Smith", "Developer", 40000, new DateTime(1985, 1, 1), 12);
+            ////the program class object does not have any valid reference
+            //Issue issue1 = new Issue(1, "Chair Unavailable", "The working chair is not available in the floor", 102);
+            //issue1.AssignIssue(101);
+            //issue1.ChangeStatus("Closed");
+            //Console.WriteLine(issue1);
+            //-------------------------------------
+            //Undertanding Inhertance
+            //Bike obj = new MotorBike();
+            //obj.PrintName();
+            //int[] numbers =new int[7] { 66,89,90,77,54,92,80 };
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    Console.WriteLine(numbers[i]);
+            //}
+            Employee[] employees = new Employee[2];
+            for (int i = 0; i < employees.Length; i++)
+            {
+                employees[i] = program.CreateEmployee();
+            }
+            for (int i = 0; i < employees.Length; i++)
+            {
+                Console.WriteLine(employees[i]);
+            }
+
+        }
+    }
+    
+    //class Bike
+    //{
+    //    protected string Name { get; set; } = string.Empty;
+    //    public Bike()
+    //    {
+    //        Console.WriteLine("parent constructed");
+    //        Name = "Ramu";
+    //    }
+    //    public virtual void PrintName()//If my child class chooses to provide new functionality, it can override the method
+    //    {
+    //        Console.WriteLine("Parent "+Name);
+    //    }
+    //}
+    //class MotorBike : Bike
+    //{
+    //    public MotorBike()
+    //    {
+    //        Console.WriteLine("Chlid constructed");
+    //        Name += " Somu";
+    //    }
+    //    public override void PrintName()//Changing the parent functionality
+    //    {
+    //        Console.WriteLine("Child "+Name);
+    //    }
+    //}
+}
+
+-------------------------------------------------------------------------------
+class Parent
+{
+    protected string Name { get; set; } = string.Empty;
+    public Parent()
+    {
+        Console.WriteLine("parent constructed");
+        Name = "Ramu";
+    }
+    public virtual void PrintName()//If my child class chooses to provide new functionality, it can override the method
+    {
+        Console.WriteLine("Parent "+Name);
+    }
+}
+class Child : Parent
+{
+    public Child()
+    {
+        Console.WriteLine("Chlid constructed");
+        Name += " Somu";
+    }
+    public override void PrintName()//Changing the parent functionality
+    {
+        Console.WriteLine("Child "+Name);
+    }
+}
+----------------------------------------------------
+ Parent obj = new Child();
+ obj.PrintName();
+

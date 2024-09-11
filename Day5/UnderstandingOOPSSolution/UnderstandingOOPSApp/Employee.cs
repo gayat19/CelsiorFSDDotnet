@@ -30,24 +30,7 @@ namespace UnderstandingOOPSApp
         public double Salary { get; set; }
         public DateTime DateOfBirth { get; set; }
         public int TotalLeave { get; set; }
-        public void DoWork()
-        {
-            Console.WriteLine("Employee does his work");
-        }
-        private double num1;//private member
-        public void TakeLeave()
-        {
-            num1 = 10;//Can access privete member inside the same class
-            if (TotalLeave > 0)
-            {
-                TotalLeave--;
-                Console.WriteLine($"{Name} takes leave. Remaining leave - {TotalLeave}");
-            }
-            else
-            {
-                Console.WriteLine($"{Name} has no leave balance");
-            }
-        }
+        
         public override string ToString()
         {
             return $"Id: {Id}, Name: {Name}, Designation: {Designation}, Salary: {Salary}, DateOfBirth: {DateOfBirth}, TotalLeave: {TotalLeave}";
