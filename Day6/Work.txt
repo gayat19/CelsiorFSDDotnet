@@ -1,0 +1,416 @@
+Class diagram
+Sequence diagram
+
+Interface - 
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface
+
+
+Abstract class
+https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal class Employee
+    {
+        //default constructor   
+        public Employee()
+        {
+           
+        }
+        //ctrl+.
+        //contructor with parameters - parametrized constructor
+        public Employee(int id, string name, string designation, double salary, DateTime dateOfBirth, int totalLeave)
+        {
+            Id = id;
+            Name = name;
+            Designation = designation;
+            Salary = salary;
+            DateOfBirth = dateOfBirth;
+            TotalLeave = totalLeave;
+        }
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Designation { get; set; } = string.Empty;
+        public double Salary { get; set; }
+        public DateTime DateOfBirth { get; set; }
+        public int TotalLeave { get; set; }
+        
+        public override string ToString()
+        {
+            return $"Id: {Id}, Name: {Name}, Designation: {Designation}, Salary: {Salary}, DateOfBirth: {DateOfBirth}, TotalLeave: {TotalLeave}";
+        }
+    }
+
+}
+----------------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Channels;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+
+    
+    internal class Issue 
+    {
+       
+        //ctor
+        public Issue()
+        {
+
+        }
+        public Issue(int id, string title, string description, int reportedBy)
+        {
+            Id = id;
+            Title = title;
+            Description = description;
+            ReportedBy = reportedBy;
+            CreatedDate = DateTime.Now;
+            Status = "Just Created";
+            ClosedDate = null;
+        }
+
+        public int Id { get; set; }
+        public string Title { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
+        public int ReportedBy { get; set; }
+        public int? AssignedTo { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public string Status { get; private set; } = string.Empty;
+        public DateTime? ClosedDate { get; set; }
+        public bool ChangeStatus(string newStatus)
+        {
+            if (Status == "Closed")
+            {
+                Console.WriteLine("Cannot change staus as the issue is closed. Please raise a new Issue");
+                return false;
+            }
+            Status = newStatus;
+            if (newStatus == "Closed")
+            {
+                ClosedDate = DateTime.Now;
+                Console.WriteLine($"Issue with {Id} is maked as Closed");
+            }
+            return true;
+        }
+        public bool AssignIssue(int assignedTo)
+        {
+            if (Status == "Closed")
+            {
+                Console.WriteLine("Cannot assign issue as the issue is closed. Please raise a new Issue");
+                return false;
+            }
+            if (ReportedBy == assignedTo)
+            {
+                Console.WriteLine("Cannot assign issue to the same person who reported the issue");
+                return false;
+            }
+            AssignedTo = assignedTo;
+            Console.WriteLine($"Issue with {Id} successfully Assigned to {AssignedTo}");
+            return true;
+        }
+        public void PrintIssueDetails()
+        {
+            var issueDetails = $"Issue Id: {Id}\nTitle: {Title}\nDescription: {Description}\nReported By: {ReportedBy}\nAssigned To: {AssignedTo}\nCreated Date: {CreatedDate}\nStatus: {Status}\nClosed Date: ";
+            issueDetails += ClosedDate == null ? "-" : ClosedDate;//ternary operator
+            Console.WriteLine(issueDetails);
+
+        }
+        public override string ToString()
+        {
+            var issueDetails = $"Issue Id: {Id}\nTitle: {Title}\nDescription: {Description}\nReported By: {ReportedBy}\nAssigned To: {AssignedTo}\nCreated Date: {CreatedDate}\nStatus: {Status}\nClosed Date: ";
+            issueDetails += ClosedDate == null ? "-" : ClosedDate;//ternary operator
+            return issueDetails;
+
+        }
+    }
+}
+---------------------------------------------------------------------
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal interface IEmployeeService
+    {
+        public bool RaiseIssue(int eid, Issue issue);
+        public bool CloseIssue(int eid, Issue issue);
+        public Issue[] GetAllIssues(int eid);
+    }
+}
+------------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal interface ISolverService
+    {
+        public Issue[] GetAllIssues();
+        public Issue AssignIssue(int eid,int issueId);
+    }
+}
+-----------------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal class EmployeeService : IEmployeeService, ISolverService
+    {
+        Employee[] employees;
+        Issue[] issues;
+        static int count = 0;
+        public EmployeeService()
+        {
+            employees = new Employee[3]
+            {
+                new Employee{Id=1, Name="John", Designation="Manager", Salary=100000, DateOfBirth=DateTime.Now.AddYears(-30), TotalLeave=5},
+                new Employee{Id=2, Name="Smith", Designation="Developer", Salary=70000, DateOfBirth=DateTime.Now.AddYears(-25), TotalLeave=5},
+                new Employee{Id=3, Name="Peter", Designation="Tester", Salary=60000, DateOfBirth=DateTime.Now.AddYears(-28), TotalLeave=5}
+            };
+            issues = new Issue[10];
+
+        }
+        public bool CloseIssue(int eid, Issue issue)
+        {
+            Employee employee = GetEmployee(eid);
+            if (employee == null)
+            {
+                Console.WriteLine("Employee not found");
+                return false;
+            }
+            Issue myIssue = GetIssueById(issue.Id);
+            if (myIssue == null)
+            {
+                Console.WriteLine("Issue not found");
+                return false;
+            }
+            return myIssue.ChangeStatus("Closed");
+        }
+        private Issue GetIssueById(int issueId)
+        {
+            Issue issue = null;
+            for (var i = 0; i < issues.Length; i++)
+            {
+                if (issues[i].Id == issueId)
+                {
+                    issue = issues[i];
+                    break;
+                }
+            }
+            return issue;
+        }
+        private Employee GetEmployee(int eid)
+        {
+            Employee employee = null;
+            for (var i = 0; i < employees.Length; i++)
+            {
+                if (employees[i].Id == eid)
+                {
+                    employee = employees[i];
+                    break;
+                }
+            }
+            return employee;
+        }
+        public Issue[] GetAllIssues(int eid)
+        {
+           var raisedissues = new Issue[count];
+            Employee employee = GetEmployee(eid);
+            if(employee == null)
+            {
+                Console.WriteLine("Employee not found");
+                return null;
+            }
+            for (int i = 0; i < count; i++)
+            {
+                if(issues[i].ReportedBy == eid)
+                    raisedissues[i] = issues[i];
+            }
+            return raisedissues;
+        }
+
+        public bool RaiseIssue(int eid, Issue issue)
+        {
+            Employee employee =GetEmployee(eid);
+            if (employee!= null)
+            {
+                issue.ReportedBy = employee.Id;
+                if(count<10)
+                {
+                    issues[count] = issue;
+                    issues[count].Id = count + 1;
+                }
+                count++;
+                return true;
+            }
+            Console.WriteLine("Unable to raise issue");
+            return false;
+
+
+        }
+
+        public Issue[] GetAllIssues()
+        {
+            if(count == 0)
+            {
+                Console.WriteLine("No issues found");
+                return null;
+            }
+            return issues;
+        }
+
+        public Issue AssignIssue(int eid, int issueId)
+        {
+            Employee employee = GetEmployee(eid);
+            if (employee == null)
+            {
+                Console.WriteLine("Employee  for assigning iussue not found");
+                return null;
+            }
+            Issue myIssue = GetIssueById(issueId);
+            if (myIssue == null)
+            {
+                Console.WriteLine("Issue not found");
+                return null;
+            }
+            bool checkDesignation = CheckSolverDesignation(employee);
+            if (checkDesignation &&  myIssue.AssignIssue(eid))
+            {
+                return myIssue;
+            }
+            return null;
+        }
+
+        private bool CheckSolverDesignation(Employee employee)
+        {
+            if (employee.Designation == "Manager" || employee.Designation == "Team Lead")
+            {
+                return true;
+            }
+            return false;
+        }
+
+        
+    }
+}
+------------------------------------------------------------------------------
+namespace UnderstandingOOPSApp
+{
+    internal class Program
+    {
+        IEmployeeService employeeService;
+        public Program()
+        {
+            employeeService = new EmployeeService();
+           
+        }
+        //create employee object by getting data from user in console and retuyrn back teh object
+        void PrintMenu()
+        {
+            Console.WriteLine("Welcome to the Issue Managment Service");
+            Console.WriteLine("1 - Raise Issue");
+            Console.WriteLine("2 - Close Issue");
+            Console.WriteLine("3 - View All Issues");
+            Console.WriteLine("0 - Exit");
+        }
+        void EmployeeInteraction()
+        {
+            var choice = 0;
+            do
+            {
+                PrintMenu();
+                choice = Convert.ToInt32(Console.ReadLine());
+                switch (choice)
+                {
+                    case 1:
+                        RaiseIssue();
+                        break;
+                    case 2:
+                        CloseIssue();
+                        break;
+                    case 3:
+                        PrintAllIssuesByEmployee();
+                        break;
+                    default:
+                        Console.WriteLine("Ïnvalid option");
+                        break;
+                }
+            }while(choice != 0);
+        }
+
+        private void PrintAllIssuesByEmployee()
+        {
+            Console.WriteLine("Please enter your employee Id");
+            var eid = Convert.ToInt32(Console.ReadLine());
+            var issues = employeeService.GetAllIssues(eid);
+            if(issues != null && issues.Length > 0)
+            {
+                foreach (var issue in issues)
+                {
+                    Console.WriteLine(issue);
+                }
+            }
+            else
+            {
+                Console.WriteLine("No issues found for the employee");
+            }
+        }
+
+        private void CloseIssue()
+        {
+           Issue issue = new Issue();
+            Console.WriteLine("Enter Issue ID");
+            issue.Id = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter your Employee ID");
+            issue.ReportedBy = Convert.ToInt32(Console.ReadLine());
+            employeeService.CloseIssue(issue.ReportedBy, issue);
+            
+        }
+
+        private void RaiseIssue()
+        {
+            Issue issue = new Issue();
+            Console.WriteLine("Enter Issue Title");
+            issue.Title = Console.ReadLine();
+            Console.WriteLine("Enter Issue Description");
+            issue.Description = Console.ReadLine();
+            Console.WriteLine("Enter your Employee ID");
+            issue.ReportedBy = Convert.ToInt32(Console.ReadLine());
+            employeeService.RaiseIssue(issue.ReportedBy, issue);
+        }
+
+        static void Main(string[] args)
+        {
+               var program = new Program();
+                program.EmployeeInteraction();
+        }
+    }
+}
+
+
+
+

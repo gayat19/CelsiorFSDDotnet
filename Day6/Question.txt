@@ -1,0 +1,12 @@
+Create an application that will take Product details
+Product Class
+   Id, Name, Price, Quantity
+Customer
+   Id, Name, Phone
+Supplier
+   Id, Name
+
+Supplier can add product - increase quantity
+Customer can buy product - decrease quantity 
+
+Implement it with the proper business logic

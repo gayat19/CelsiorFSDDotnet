@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\bin\Debug\net6.0\CustomerApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\bin\Debug\net6.0\CustomerApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\bin\Debug\net6.0\CustomerApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\bin\Debug\net6.0\CustomerApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\bin\Debug\net6.0\CustomerApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\refint\CustomerApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\CustomerApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day7\CustomerSolution\CustomerApp\obj\Debug\net6.0\ref\CustomerApp.dll

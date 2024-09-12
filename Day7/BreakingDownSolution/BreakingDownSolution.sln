@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingDownApp", "BreakingDownApp\BreakingDownApp.csproj", "{34569133-A056-4F35-9E9A-83310996B31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34569133-A056-4F35-9E9A-83310996B31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34569133-A056-4F35-9E9A-83310996B31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34569133-A056-4F35-9E9A-83310996B31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34569133-A056-4F35-9E9A-83310996B31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBDA670A-B4F7-4EC7-9DD8-ADFA8D9E6556}
+	EndGlobalSection
+EndGlobal

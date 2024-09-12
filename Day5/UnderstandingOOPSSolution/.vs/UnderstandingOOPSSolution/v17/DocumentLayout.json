@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\isolverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\isolverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day5\\understandingoopssolution\\understandingoopsapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A88AF3-025D-4145-AC9E-CF09A26DF156}|UnderstandingOOPSApp\\UnderstandingOOPSApp.csproj|solutionrelative:understandingoopsapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ISolverService.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\ISolverService.cs",
               "RelativeDocumentMoniker": "UnderstandingOOPSApp\\ISolverService.cs",
               "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\ISolverService.cs",
               "RelativeToolTip": "UnderstandingOOPSApp\\ISolverService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T06:18:04.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Program.cs",
               "RelativeDocumentMoniker": "UnderstandingOOPSApp\\Program.cs",
               "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Program.cs",
               "RelativeToolTip": "UnderstandingOOPSApp\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T06:06:07.264Z",
               "EditorCaption": ""
@@ -74,27 +74,27 @@
               "RelativeDocumentMoniker": "UnderstandingOOPSApp\\EmployeeService.cs",
               "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\EmployeeService.cs",
               "RelativeToolTip": "UnderstandingOOPSApp\\EmployeeService.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAAwJMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T05:06:02.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "UnderstandingOOPSApp\\IEmployeeService.cs",
               "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\IEmployeeService.cs",
               "RelativeToolTip": "UnderstandingOOPSApp\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T05:03:56.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Issue.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Issue.cs",
               "RelativeDocumentMoniker": "UnderstandingOOPSApp\\Issue.cs",
@@ -102,18 +102,17 @@
               "RelativeToolTip": "UnderstandingOOPSApp\\Issue.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T04:42:34.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T04:42:34.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Employee.cs",
               "RelativeDocumentMoniker": "UnderstandingOOPSApp\\Employee.cs",
               "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day5\\UnderstandingOOPSSolution\\UnderstandingOOPSApp\\Employee.cs",
               "RelativeToolTip": "UnderstandingOOPSApp\\Employee.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wBsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T04:33:33.427Z",
               "EditorCaption": ""

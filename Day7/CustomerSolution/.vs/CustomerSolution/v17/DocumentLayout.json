@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day7\\customersolution\\customerapp\\premiumcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\premiumcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day7\\customersolution\\customerapp\\validatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\validatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day7\\customersolution\\customerapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day7\\customersolution\\customerapp\\invalidinputdetailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\invalidinputdetailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day7\\customersolution\\customerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day7\\customersolution\\customerapp\\ivalidatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\ivalidatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day7\\customersolution\\customerapp\\invaliddateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9113DB-D8A8-4752-9ABE-7379D65432D2}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\invaliddateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvalidDateException.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\InvalidDateException.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\InvalidDateException.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\InvalidDateException.cs",
+              "RelativeToolTip": "CustomerApp\\InvalidDateException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:08:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidInputDetailException.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\InvalidInputDetailException.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\InvalidInputDetailException.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\InvalidInputDetailException.cs",
+              "RelativeToolTip": "CustomerApp\\InvalidInputDetailException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:58:58.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumCustomer.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\PremiumCustomer.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\PremiumCustomer.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\PremiumCustomer.cs",
+              "RelativeToolTip": "CustomerApp\\PremiumCustomer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:03:23.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidateCustomer.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\ValidateCustomer.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\ValidateCustomer.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\ValidateCustomer.cs",
+              "RelativeToolTip": "CustomerApp\\ValidateCustomer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:04:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IValidateCustomer.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\IValidateCustomer.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\IValidateCustomer.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\IValidateCustomer.cs",
+              "RelativeToolTip": "CustomerApp\\IValidateCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:03:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Customer.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\Customer.cs",
+              "RelativeToolTip": "CustomerApp\\Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:01:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day7\\CustomerSolution\\CustomerApp\\Program.cs",
+              "RelativeToolTip": "CustomerApp\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:01:28.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

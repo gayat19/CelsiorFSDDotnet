@@ -3,10 +3,21 @@
     internal class Program
     {
         IEmployeeService employeeService;
+        ISolverService solverService;
         public Program()
         {
-            employeeService = new EmployeeService();
-           
+            var service  = new EmployeeService();
+            employeeService = service;
+            solverService = service;
+        }
+
+        void SolverInteraction()
+        {
+            var issues = solverService.GetAllIssues();
+            foreach (var issue in issues)
+            {
+                Console.WriteLine(issue);
+            }
         }
         //create employee object by getting data from user in console and retuyrn back teh object
         void PrintMenu()
@@ -82,6 +93,7 @@
             issue.ReportedBy = Convert.ToInt32(Console.ReadLine());
             employeeService.RaiseIssue(issue.ReportedBy, issue);
         }
+
 
         static void Main(string[] args)
         {

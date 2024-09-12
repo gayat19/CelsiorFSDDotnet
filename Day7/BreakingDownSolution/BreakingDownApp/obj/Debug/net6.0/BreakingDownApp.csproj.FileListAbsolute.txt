@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\bin\Debug\net6.0\BreakingDownApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\bin\Debug\net6.0\BreakingDownApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\bin\Debug\net6.0\BreakingDownApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\bin\Debug\net6.0\BreakingDownApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\bin\Debug\net6.0\BreakingDownApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\refint\BreakingDownApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\BreakingDownApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day7\BreakingDownSolution\BreakingDownApp\obj\Debug\net6.0\ref\BreakingDownApp.dll

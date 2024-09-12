@@ -1,0 +1,419 @@
+Create an application for calculating
+Add
+Subract
+Multiply
+Divide
+
+
+for only 2 numbers
+
+
+Class - Numbers
+Number1
+NUmber2
+
+TakeNumbersFromConsole()
+PrintNumbers()
+
+
+Class - Calculator
+Numbers
+
+Add()
+Subract()
+Multiply()
+Divide()
+-PrintResult(string Opetration)
+
+Class - Program
+ICalculate
+
+PrintMenu()
+CalculatorOperation()
+Main() - Sarting point
+-----------------------------------------------------------------
+Create an application that will 
+Take Customner details
+  Name, DateOfBirth and Gender
+
+Create logic that will calculate Age and print if the CUstomer is eligible to Vote
+
+Examples
+-------------------------
+Please enter you Name
+Ramu
+Please Enter your Date Of Birth
+2000-2-2
+Please enter your Gender(M/F)
+M
+
+Dear Mr. Ramu you are 24 years old and you are eligible to vote
+-----------------------------------------------
+Please enter you Name
+Somu
+Please Enter your Date Of Birth
+2010-2-2
+Please enter your Gender(M/F)
+M
+
+Dear Mr. Somu you are 14 years old and you are not eligible to vote
+----------------------------------------
+Please enter you Name
+Gita
+Please Enter your Date Of Birth
+2000-2-2
+Please enter your Gender(M/F)
+F
+
+Dear Ms. Gita you are 24 years old and you are eligible to vote
+--------------------------------------------------------
+Customer
+  Id, Name, Gender,DateOfBirth
+
+ValidateCustomer
+   ValidateByAge
+
+Program
+  Customer
+  ValudateCustomer
+  CheckCustomer
+  Main
+--------------------------------------------------------------
+Unexpected situation during the time of execution - Exception
+Exception handling
+try-catch blocks
+-----------------------------------------
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/
+---------------------------------------------------------
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BreakingDownApp
+{
+    public class Numbers
+    {
+        public double Number1 { get; set; }
+        public double Number2 { get; set; }
+
+        public void TakeNumbersFromConsole()
+        {
+            Console.WriteLine("Please enter the first number");
+            Number1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Please enter the second number");
+            Number2 = Convert.ToDouble(Console.ReadLine());
+        }
+
+        public override string ToString()
+        {
+            return $"Number1: {Number1}, Number2: {Number2}";
+        }
+
+    }
+}
+--------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BreakingDownApp
+{
+    public  interface ICalculate
+    {
+        void Add();
+        void Subtract();
+        void Multiply();
+        void Divide();
+    }
+}
+-------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BreakingDownApp
+{
+    public class Calculator : ICalculate
+    {
+        public Numbers Numbers { get; set; }
+        public Calculator()
+        {
+            Numbers = new Numbers();
+        }
+        void PrintResult(string opetration,double result)
+        {   
+            Console.WriteLine($"The result of {opetration} on {Numbers} is {result}");
+        }
+        public void Add()
+        {
+            Numbers.TakeNumbersFromConsole();
+            double result = Numbers.Number1 + Numbers.Number2;
+            PrintResult("Addition", result);
+        }
+
+        public void Divide()
+        {
+            Numbers.TakeNumbersFromConsole();
+            double result = Numbers.Number1 / Numbers.Number2;
+            PrintResult("Division", result);
+        }
+
+        public void Multiply()
+        {
+            Numbers.TakeNumbersFromConsole();
+            double result = Numbers.Number1 * Numbers.Number2;
+            PrintResult("Multiplication", result);
+        }
+
+        public void Subtract()
+        {
+            Numbers.TakeNumbersFromConsole();
+            double result = Numbers.Number1 - Numbers.Number2;
+            PrintResult("Subtraction", result);
+        }
+    }
+}
+---------------------------------------------------------
+namespace BreakingDownApp
+{
+    internal class Program
+    {
+        ICalculate _calculator;
+        public Program()
+        {
+            _calculator = new Calculator();
+        }
+        void PrintMenu()
+        {
+            Console.WriteLine("Welcome to the Calculator Application");
+            Console.WriteLine("1. Add");
+            Console.WriteLine("2. Subract");
+            Console.WriteLine("3. Multiply");
+            Console.WriteLine("4. Divide");
+            Console.WriteLine("5. Exit");
+        }
+        void CalculatorOperation()
+        {
+            int choice = 0;
+            do
+            {
+                PrintMenu();
+                Console.WriteLine("Please enter your choice");
+                choice = Convert.ToInt32(Console.ReadLine());
+                switch(choice)
+                {
+                    case 1:
+                        _calculator.Add();
+                        break;
+                    case 2:
+                        _calculator.Subtract();
+                        break;
+                    case 3:
+                        _calculator.Multiply();
+                        break;
+                    case 4:
+                        _calculator.Divide();
+                        break;
+                    case 5:
+                        Console.WriteLine("Exiting the application");
+                        break;
+                    default:
+                        Console.WriteLine("Invalid choice");
+                        break;
+                }
+
+            } while(choice != 5);
+        }
+        static void Main(string[] args)
+        {
+           new Program().CalculatorOperation();
+        }
+    }
+}
+------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CustomerApp
+{
+    public class Customer
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public DateTime DateOfBirth { get; set; }
+        public string Gender { get; set; }
+
+        public void TakeCustomerDetailsFromConsole()
+        {
+            Console.WriteLine("Enter the customer id:");
+            Id = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the customer name:");
+            Name = Console.ReadLine() ?? "";
+            Console.WriteLine("Enter the customer date of birth:");
+            DateOfBirth = Convert.ToDateTime(Console.ReadLine());
+            Console.WriteLine("Enter the gender(M/F");
+            Gender = Console.ReadLine() ?? "F";
+
+        }
+    }
+}
+------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CustomerApp
+{
+    public  class PremiumCustomer   : Customer
+    {
+        public string Membership { get; set; }
+        public PremiumCustomer()
+        {
+            Membership = "Gold";
+        }
+        public override void TakeCustomerDetailsFromConsole()
+        {
+            base.TakeCustomerDetailsFromConsole();
+            Console.WriteLine("Enter the membership type:");
+            Membership = Console.ReadLine() ?? "Gold";
+        }
+    }
+}
+
+------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CustomerApp
+{
+    public interface IValidateCustomer
+    {
+        void ValidateCustomerByAge(Customer customer);
+       
+    }
+}
+---------------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CustomerApp
+{
+    public class ValidateCustomer : IValidateCustomer
+    {
+        int CalculateAge(DateTime dateOfBirth)
+        {
+            var diff = DateTime.Now - dateOfBirth;
+            return (diff.Days / 365);
+        }
+
+
+        private void PrintResult(Customer customer, int age)
+        {
+            var salutation = customer.Gender == "M" ? "Mr" : "Ms";
+            if (age < 18)
+            {
+                Console.WriteLine($"Dear {salutation}. {customer.Name} you are {age} years old and so not eligible to vote.");
+            }
+            else
+            {
+                Console.WriteLine($"Dear {salutation}. {customer.Name} you are {age} years old and so you are eligible to vote.");
+            }
+        }
+
+        public void ValidateCustomerByAge(Customer customer)
+        {
+            var age = CalculateAge(customer.DateOfBirth);
+            PrintResult(customer, age);
+        }
+    }
+}
+-------------------------------------------------------------
+namespace CustomerApp
+{
+    internal class Program
+    {
+        Customer customer;
+        IValidateCustomer validateCustomer;
+        public Program()
+        {
+            customer = new PremiumCustomer();
+            validateCustomer = new ValidateCustomer();
+        }
+        void CheckCustomer()
+        {
+            customer.TakeCustomerDetailsFromConsole();
+            validateCustomer.ValidateCustomerByAge(customer);
+        }
+        static void Main(string[] args)
+        {
+            new Program().CheckCustomer();
+        }
+    }
+}
+-----------------------------------------------------------------------
+Console.WriteLine("Please entera  numebr");
+int num1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Please enter another  numebr");
+int num2 = Convert.ToInt32(Console.ReadLine());
+int sum = num1 + num2;
+Console.WriteLine($"The sum of {num1} and {num2} is {sum}");
+---------------------------------------------------------------
+ try
+ {
+     Console.WriteLine("Please entera  numebr");
+     int num1 = Convert.ToInt32(Console.ReadLine());
+     Console.WriteLine("Please enter another  numebr");
+     int num2 = Convert.ToInt32(Console.ReadLine());
+     int sum = num1 + num2;
+     Console.WriteLine($"The sum of {num1} and {num2} is {sum}");
+ }
+ catch (FormatException ex)
+ {
+     Console.WriteLine("Input was not in the required type");
+ }
+ catch (OverflowException ex)
+ {
+     Console.WriteLine("Too big or too small to handle as input");
+ }
+ -------------------------------------------------------------------------
+  try
+ {
+     Console.WriteLine("Please entera  numebr");
+     int num1 = Convert.ToInt32(Console.ReadLine());
+     Console.WriteLine("Please enter another  numebr");
+     int num2 = Convert.ToInt32(Console.ReadLine());
+     int result = num1 /num2;
+     Console.WriteLine($"The result of {num1} / {num2} is {result}");
+ }
+ catch (FormatException ex)
+ {
+     Console.WriteLine("Input was not in the required type");
+ }
+ catch (OverflowException ex)
+ {
+     Console.WriteLine("Too big or too small to handle as input");
+     
+     
+ }
+
+
+
+
