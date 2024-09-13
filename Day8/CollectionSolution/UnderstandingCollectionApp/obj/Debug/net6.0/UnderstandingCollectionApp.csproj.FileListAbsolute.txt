@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\refint\UnderstandingCollectionApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day8\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\ref\UnderstandingCollectionApp.dll
