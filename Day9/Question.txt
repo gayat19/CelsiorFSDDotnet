@@ -1,0 +1,43 @@
+Create a application that will manage a clinic
+
+
+We need 
+doctor details
+Patient Details
+Appointment details
+
+Allow patient to register
+Once patient registers list the available doctors
+Allow patient to book appointment with a doctor(Cannot have 2 appointment in the same time)
+List the appointments of that patient(future and past)
+
+Allow doctor to register
+Once registers can see all patient data
+Doctor can see only their appointment(future and past)
+
+
+Appointments can be for 30 mins each
+
+Patient
+Doctor
+
+patient-
+  Register
+  Login
+
+Login
+  See doctors
+  Book Appointment
+  View Appointment
+
+------------------------------
+doctor
+   register
+   Login
+
+Login
+  View Patients
+  View Appointments
+
+
+https://www.hackerrank.com/skills-directory/c_sharp_basic

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -40,45 +41,23 @@ namespace UnderstandingOOPSApp
         }
         private Issue GetIssueById(int issueId)
         {
-            Issue issue = null;
-            for (var i = 0; i < issues.Length; i++)
-            {
-                if (issues[i].Id == issueId)
-                {
-                    issue = issues[i];
-                    break;
-                }
-            }
-            return issue;
+            return issues.FirstOrDefault(i => i.Id == issueId)??throw new NoSuchIssueException();
         }
         private Employee GetEmployee(int eid)
         {
-            Employee employee = null;
-            for (var i = 0; i < employees.Length; i++)
-            {
-                if (employees[i].Id == eid)
-                {
-                    employee = employees[i];
-                    break;
-                }
-            }
-            return employee;
+            
+            return employees.FirstOrDefault(e => e.Id == eid)??throw new NoSuchEmployeeException();
         }
         public Issue[] GetAllIssues(int eid)
         {
-           var raisedissues = new Issue[count];
+            
             Employee employee = GetEmployee(eid);
             if(employee == null)
             {
                 Console.WriteLine("Employee not found");
                 return null;
             }
-            for (int i = 0; i < count; i++)
-            {
-                if(issues[i].ReportedBy == eid)
-                    raisedissues[i] = issues[i];
-            }
-            return raisedissues;
+           return issues.Where(i => i.ReportedBy == eid).ToArray();
         }
 
         public bool RaiseIssue(int eid, Issue issue)
@@ -144,4 +123,7 @@ namespace UnderstandingOOPSApp
 
         
     }
+
+   
+    
 }

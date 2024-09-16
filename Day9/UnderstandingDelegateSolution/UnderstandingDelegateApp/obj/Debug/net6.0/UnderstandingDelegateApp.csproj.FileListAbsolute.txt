@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\net6.0\UnderstandingDelegateApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\net6.0\UnderstandingDelegateApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\net6.0\UnderstandingDelegateApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\net6.0\UnderstandingDelegateApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\net6.0\UnderstandingDelegateApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\refint\UnderstandingDelegateApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\UnderstandingDelegateApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day9\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\net6.0\ref\UnderstandingDelegateApp.dll

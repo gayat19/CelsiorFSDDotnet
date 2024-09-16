@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakingDownApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bcfa0e2524c06074b7fdfdebb1310ef6721f23f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+896a73a92e9e0086720748605e19f54be81e1dd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakingDownApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakingDownApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

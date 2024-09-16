@@ -1,0 +1,199 @@
+Coding standards
+
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+
+Delegates
+  Action - no return
+  Func - any return
+  Predicate - bool
+
+
+namespace UnderstandingDelegateApp
+{
+    internal class Program
+    {
+        public delegate void CalculateDelegate(int n1, int n2);
+
+        public Program()
+        {
+            CalculateDelegate calculateDelegate = new CalculateDelegate(Multiply);
+            calculateDelegate += Add;//Multicast Delegate
+            Calculate(calculateDelegate, 10, 20);
+        }
+        public void Add(int num1,int num2)
+        {
+            int result = num1 + num2;
+            Console.WriteLine($"The sum of {num1} and {num2} is {result}");
+        }
+        public void Multiply(int num1, int num2)
+        {
+            int result = num1 * num2;
+            Console.WriteLine($"The product of {num1} and {num2} is {result}");
+        }
+
+        //-----------------------------------------------------------------------------
+        public void Calculate(CalculateDelegate myDelegate,int n1, int n2)
+        {
+           myDelegate(n1, n2);
+
+        }
+        static void Main(string[] args)
+        {
+            new Program();
+        }
+    }
+}
+-----------------------------------------------------------------------------------
+using System.Runtime.CompilerServices;
+
+namespace UnderstandingDelegateApp
+{
+    internal class Program
+    {
+        //public delegate void CalculateDelegate(int n1, int n2);//creating out delegate type
+
+        public Program()
+        {
+           // CalculateDelegate calculateDelegate = new CalculateDelegate(Multiply);
+           //Action<int, int> calculateDelegate = Multiply;
+           Func<int,int,int> calculateDelegate = Multiply;
+            calculateDelegate += Add;//Multicast Delegate
+            calculateDelegate -= Multiply;
+            Calculate(calculateDelegate, 10, 20);
+        }
+        //public void Add(int num1,int num2)
+        //{
+        //    int result = num1 + num2;
+        //    Console.WriteLine($"The sum of {num1} and {num2} is {result}");
+        //}
+        //public void Multiply(int num1, int num2)
+        //{
+        //    int result = num1 * num2;
+        //    Console.WriteLine($"The product of {num1} and {num2} is {result}");
+        //}
+
+
+        public int Add(int num1, int num2)
+        {
+            int result = num1 + num2;
+            return result;
+        }
+        public int Multiply(int num1, int num2)
+        {
+            int result = num1 * num2;
+           return result;
+        }
+        //-----------------------------------------------------------------------------
+        //public void Calculate(Action<int,int> myDelegate,int n1, int n2)
+        public void Calculate(Func<int, int,int> myDelegate, int n1, int n2)
+        {
+           int result  = myDelegate(n1, n2);
+            Console.WriteLine($"The sum of {n1} and {n2} is {result}");
+
+        }
+        static void Main(string[] args)
+        {
+            new Program();
+        }
+    }
+}
+-------------------------------------------------
+using System.Runtime.CompilerServices;
+
+namespace UnderstandingDelegateApp
+{
+    class Employee
+    {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public int Salary { get; set; }
+        public override string ToString()
+        {
+            return "Id = " + ID + ", Name = " + Name + ", Salary = " + Salary;
+        }
+    }
+    internal class Program
+    {
+        public Program()
+        {
+            UnderstandingTheUseOfDelegate();
+        }
+        void UnderstandingTheUseOfDelegate()
+        {
+            List<Employee> employees = new List<Employee>()
+            {
+                new Employee { ID = 101, Name = "Mark", Salary = 5000 },
+                new Employee { ID = 102, Name = "John", Salary = 10000 },
+                new Employee { ID = 103, Name = "Smith", Salary = 14000 },
+                new Employee { ID = 104, Name = "Watson", Salary = 15000 }
+            };
+            Console.WriteLine("Please enter the employee Name");
+            string name = Console.ReadLine();
+            //Employee employee = null;
+            //for (int i = 0; i < employees.Count; i++)
+            //{
+            //    if (employees[i].Name==name)
+            //        employee = employees[i];
+            //}
+           // Predicate<Employee> employeePredicate = new Predicate<Employee>(e=>e.Name==name);//Lambda Expression
+          
+            Employee employee = employees.Find(new Predicate<Employee>(e => e.Name == name));
+            if (employee != null)
+                Console.WriteLine(employee);
+            else
+                Console.WriteLine("Employee not found");
+        }
+        //public bool FindEmployee(Employee employee)
+        //{
+        //    return employee.Name == "John";
+        //}
+        static void Main(string[] args)
+        {
+            new Program();
+        }
+    }
+}
+void UnderstandingTheUseOfDelegate()
+{
+    List<Employee> employees = new List<Employee>()
+    {
+        new Employee { ID = 101, Name = "Mark", Salary = 5000 },
+        new Employee { ID = 102, Name = "John", Salary = 10000 },
+        new Employee { ID = 103, Name = "Smith", Salary = 14000 },
+        new Employee { ID = 104, Name = "Watson", Salary = 15000 }
+    };
+    Console.WriteLine("Please enter the employee Name");
+    string name = Console.ReadLine();
+
+    //Language Integrated Query (LINQ)
+
+    var employee = employees.FirstOrDefault(e => e.Name == name);
+
+    if (employee != null)
+        Console.WriteLine(employee);
+    else
+        Console.WriteLine("Employee not found");
+}
+//public bool FindEmployee(Employee employee)
+//{
+//    return employee.Name == "John";
+//}
+
+steps of your application
+   Creating the models 
+      Ensure you have all the properties that are required
+      Ensure you have overridden the ToString for printing purposes
+   Think of the business logics that are required
+      Create the Interface with the behaviour listing
+      Implement the same in appropriate classes
+   Think about the functionalities be to exposed to end user
+       Ensure you have taken the right input
+       Ensure you are showing the correct output
+
+Follow all the coding standards
+Ensure your application is modular
+Ensure fast TAT
+Ensure you are minimizing repeated codes
+
+
+
