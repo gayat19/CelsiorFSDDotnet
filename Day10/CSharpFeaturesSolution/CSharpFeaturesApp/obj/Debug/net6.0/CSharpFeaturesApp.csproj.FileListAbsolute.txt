@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\bin\Debug\net6.0\CSharpFeaturesApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\bin\Debug\net6.0\CSharpFeaturesApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\bin\Debug\net6.0\CSharpFeaturesApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\bin\Debug\net6.0\CSharpFeaturesApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\bin\Debug\net6.0\CSharpFeaturesApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\refint\CSharpFeaturesApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\CSharpFeaturesApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day10\CSharpFeaturesSolution\CSharpFeaturesApp\obj\Debug\net6.0\ref\CSharpFeaturesApp.dll

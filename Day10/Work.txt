@@ -1,0 +1,10 @@
+Nullable types
+Checked BLock
+Tuples
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples
+
+ErrorHandling
+
+Threading
+Task
+https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming
