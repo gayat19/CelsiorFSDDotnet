@@ -1,0 +1,39 @@
+1) https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true
+
+2) https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
+
+3) https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true
+
+4) https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
+
+5) https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
+
+6) https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+
+7) https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true
+
+8) https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
+
+9) https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true
+
+10) https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
+
+11) https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true
+
+12) https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true
+
+13) https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
+
+14) https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true
+
+15) https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true
+-------------------------------------------------
+16) https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true
+
+17) https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true
+
+18) https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
+
+19) https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true
+
+20) https://www.hackerrank.com/challenges/prime-date/problem?isFullScreen=true

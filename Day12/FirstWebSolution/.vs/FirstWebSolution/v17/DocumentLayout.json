@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\wwwroot\\pages\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\wwwroot\\pages\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\views\\first\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\views\\first\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\views\\first\\viewcustomerdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\views\\first\\viewcustomerdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day12\\firstwebsolution\\firstwebapp\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767E9730-0098-43C5-96C8-599529161900}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.html",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\wwwroot\\pages\\Home.html",
+              "RelativeDocumentMoniker": "FirstWebApp\\wwwroot\\pages\\Home.html",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\wwwroot\\pages\\Home.html",
+              "RelativeToolTip": "FirstWebApp\\wwwroot\\pages\\Home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-19T07:21:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T07:05:45.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FirstWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:01:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Models\\Product.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "FirstWebApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:00:07.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewCustomerData.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Views\\First\\ViewCustomerData.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Views\\First\\ViewCustomerData.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Views\\First\\ViewCustomerData.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Views\\First\\ViewCustomerData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T06:45:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Models\\Customer.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Models\\Customer.cs",
+              "RelativeToolTip": "FirstWebApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:35:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Views\\First\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Views\\First\\Index.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Views\\First\\Index.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Views\\First\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T06:02:46.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Program.cs",
+              "RelativeToolTip": "FirstWebApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:03:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirstController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Controllers\\FirstController.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Controllers\\FirstController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day12\\FirstWebSolution\\FirstWebApp\\Controllers\\FirstController.cs",
+              "RelativeToolTip": "FirstWebApp\\Controllers\\FirstController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:02:53.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

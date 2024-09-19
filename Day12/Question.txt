@@ -1,0 +1,5 @@
+1) Cerate a beautiful and responsive profile page for yourself.
+Ensure the page has all your professional details also pics
+Hosting is optional
+
+2) Create a simple MVC application that will display doctor list to the patient.

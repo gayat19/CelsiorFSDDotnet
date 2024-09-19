@@ -1,0 +1,16 @@
+Request
+Response-HTTP response -> HTML
+
+client(Browser) -> Request(HTTP request) -> Server-> DNS(Converting Domain name to IP) ->using the ip we find the system(hardware)-> theharware usually is a Web Server(IIS, Cloud Server, Web Logic)-> Validate the request -> Generate the response -> Render it -> Send back the response(HTTP response)
+
+
+MVC -> Model View Controller
+Model -> Data (C# class object)
+View -> HTML content for User interaction
+Controller -> Receiving the request and selecting the data to be given back, calling the business logic
+
+
+{baste url}/{ControllerName}/{Actionmethod name}
+
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
+
