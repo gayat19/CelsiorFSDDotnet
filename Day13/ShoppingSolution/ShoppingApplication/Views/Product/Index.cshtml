@@ -1,0 +1,32 @@
+﻿@model IEnumerable<ShoppingApplication.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    div.card{
+        float: left;
+        margin: 10px;
+    }
+
+</style>
+<h1>Product Listing</h1>
+@foreach(var product in Model)
+{
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="@product.Image" alt="Card image cap">
+        <div class="card-body">
+           
+            <h5 class="card-title">@product.Name</h5>
+            <p class="card-text"> in the price of &#x20b9; @product.Price Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a asp-action="Edit" asp-route-pid="@product.Id" class="btn btn-primary">Edit </a>
+            <a asp-action="Delete" asp-route-pid="@product.Id" class="btn btn-primary">Delete </a>
+        </div>
+    </div>
+
+    
+}
+
+
+
+

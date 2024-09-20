@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|d:\\corp\\genspark\\celsior\\participants\\day13\\shoppingsolution\\shoppingapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|d:\\corp\\genspark\\celsior\\participants\\day13\\shoppingsolution\\shoppingapplication\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|d:\\corp\\genspark\\celsior\\participants\\day13\\shoppingsolution\\shoppingapplication\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|d:\\corp\\genspark\\celsior\\participants\\day13\\shoppingsolution\\shoppingapplication\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|d:\\corp\\genspark\\celsior\\participants\\day13\\shoppingsolution\\shoppingapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|d:\\corp\\genspark\\celsior\\participants\\day13\\shoppingsolution\\shoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|d:\\corp\\genspark\\celsior\\participants\\day13\\shoppingsolution\\shoppingapplication\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1D87AC-BDCC-45D7-82BF-E06BF6421EE4}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ShoppingApplication\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T07:16:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ShoppingApplication\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T06:38:09.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ShoppingApplication\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T05:05:37.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Program.cs",
+              "RelativeToolTip": "ShoppingApplication\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:51:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShoppingApplication\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T04:24:31.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingApplication\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:17:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Models\\Product.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day13\\ShoppingSolution\\ShoppingApplication\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingApplication\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:16:25.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
