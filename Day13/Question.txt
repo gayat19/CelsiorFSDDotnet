@@ -1,0 +1,13 @@
+*In the application you created on Day 12
+"2) Create a simple MVC application that will display doctor list to the patient."
+
+Create another controller that will enable user to 
+Add a new Doctor
+List all the available doctors
+Edit doctor details(Speciality, Phone and Experience)
+Delete a doctor
+
+Please ensure the Doctor object has all the required attribute. Also add a image for the doctor
+
+*Refer this or any source and upload image to wwwroot folder
+https://www.coreprogramm.com/2021/08/upload-save-file-to-wwwroot-folder-directory-in-aspnet-core.html

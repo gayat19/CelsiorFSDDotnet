@@ -1,0 +1,23 @@
+Design pattern
+  Pre-defined class structure for operation
+CRUD - > Create, Read, Update, Delete
+         Repository Design pattern
+ 		Add, GetAll&Get, Update/Edit, Delete
+
+
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
+
+
+Dependency Injection - Singleton, Scoped, Transient
+
+Mode of Injection /Lifespan
+Singleton - Single objects for all injection and all request
+
+Scoped - One object for every request
+
+Transient - One object for every Injection
+
+Loose Coupling
+
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-8.0
+   
