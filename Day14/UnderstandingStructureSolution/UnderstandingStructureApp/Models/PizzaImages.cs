@@ -11,7 +11,7 @@
 
         public bool Equals(PizzaImages? other)
         {
-            return this.Id == other.Id;
+            return this.Id == (other??new PizzaImages()).Id;
         }
     }
 }

@@ -2,16 +2,15 @@
 
 namespace UnderstandingStructureApp.Exceptions
 {
-    
-    public class CannotAddWithNoImagesException : Exception
+
+    public class UserNotFoundException : Exception
     {
-        
-        public CannotAddWithNoImagesException()
+        public UserNotFoundException()
         {
-            msg = "Cannot add a images object with no images";
+            msg = "User with the given username not found";
         }
+
         string msg;
         public override string Message => msg;
-
     }
 }

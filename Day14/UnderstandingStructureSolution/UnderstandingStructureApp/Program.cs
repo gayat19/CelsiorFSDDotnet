@@ -14,8 +14,12 @@ namespace UnderstandingStructureApp
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddScoped<IPizzaService, PizzaService>();//Service will be used in controller
+            builder.Services.AddScoped<ILoginService, LoginService>();
+
             builder.Services.AddScoped<IRepository<int, PizzaImages>, PizzaImageRepository>();//Repo will be used in service
             builder.Services.AddScoped<IRepository<int, Pizza>, PizzaRepository>();//Repo will be used in service
+            builder.Services.AddScoped<IRepository<string, User>, UserRepository>();
+
 
             var app = builder.Build();
 
@@ -32,7 +36,7 @@ namespace UnderstandingStructureApp
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Pizza}/{action=Index}/{id?}");
+                pattern: "{controller=Login}/{action=UserLogin}/{id?}");
 
             app.Run();
         }

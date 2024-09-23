@@ -2,16 +2,15 @@
 
 namespace UnderstandingStructureApp.Exceptions
 {
-    
-    public class CannotAddWithNoImagesException : Exception
+
+    public class NoUsersFoundException : Exception
     {
-        
-        public CannotAddWithNoImagesException()
+        public NoUsersFoundException()
         {
-            msg = "Cannot add a images object with no images";
+            msg = "No users available";
         }
+
         string msg;
         public override string Message => msg;
-
     }
 }
