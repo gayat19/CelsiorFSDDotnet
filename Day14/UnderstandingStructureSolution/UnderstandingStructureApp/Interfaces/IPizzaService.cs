@@ -1,9 +1,10 @@
 ﻿using UnderstandingStructureApp.Models;
+using UnderstandingStructureApp.Models.ViewModel;
 
 namespace UnderstandingStructureApp.Interfaces
 {
     public interface IPizzaService
     {
-        List<Pizza> GetAllPizzas();
+        List<PizzaImageViewModel> GetAllPizzas();
     }
 }

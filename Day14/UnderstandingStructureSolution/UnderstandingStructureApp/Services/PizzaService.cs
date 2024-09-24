@@ -1,5 +1,6 @@
 ﻿using UnderstandingStructureApp.Interfaces;
 using UnderstandingStructureApp.Models;
+using UnderstandingStructureApp.Models.ViewModel;
 using UnderstandingStructureApp.Repositories;
 
 namespace UnderstandingStructureApp.Services
@@ -14,14 +15,30 @@ namespace UnderstandingStructureApp.Services
             _pizzaRepository = repository;
             _imagesRepository = imagesRepository;
         }
-        public List<Pizza> GetAllPizzas()
+        public List<PizzaImageViewModel> GetAllPizzas()
         {
             var pizzas = _pizzaRepository.GetAll();
-            for (int i = 0; i < pizzas.Count; i++)
+            var pizzaImages = _imagesRepository.GetAll();
+            var pizzaImageViewModels = new List<PizzaImageViewModel>();
+            foreach (var pizza in pizzas)
             {
-                pizzas[i].Image = "/images/"+ pizzas[i].Image;
+                var pizzaImageViewModel = new PizzaImageViewModel()
+                {
+                    Id = pizza.Id,
+                    Name = pizza.Name,
+                    Description = pizza.Description,
+                    Price = pizza.Price
+                };
+                foreach (var image in pizzaImages)
+                {
+                    if (image.Id == pizza.Id)
+                    {
+                        pizzaImageViewModel.Images.AddRange(image.Images);
+                    }
+                }
+                pizzaImageViewModels.Add(pizzaImageViewModel);
             }
-            return pizzas;
+            return pizzaImageViewModels;
         }
     }
 }

@@ -1,0 +1,45 @@
+View can be bound only with one object
+
+
+
+
+Object that helps us build the view 
+
+MVC - ViewModel ( A model that is created only for View)
+API - DTO(Data Transfer object)
+
+
+Pizza Id, Name, Price, description, Picture array
+
+Maintaining state - Session
+Milldeware
+
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-8.0
+
+
+Dropdown list
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/working-with-the-dropdownlist-box-and-jquery/using-the-dropdownlist-helper-with-aspnet-mvc
+
+
+
+Web Application - Page/API
+
+
+MVC -> View
+
+API -> Application Programmming Interface
+Controller -> Returns only data
+Model
+
+
+API gives the End point
+
+How do we test the API - Swagger/ Postman/ Fiddler
+
+https://swagger.io/ - OPen API dicunmentation
+
+
+Development Vs. Production
+
+
+

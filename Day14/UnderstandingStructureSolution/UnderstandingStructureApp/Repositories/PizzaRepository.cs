@@ -8,8 +8,8 @@ namespace UnderstandingStructureApp.Repositories
     {
         List<Pizza> pizzas = new List<Pizza>()
         {
-            new Pizza(){Id = 1, Name = "Margherita", Description = "Cheese and Tomato", Price = 5.99f, Image = "margherita.jpg"},
-            new Pizza(){Id = 2, Name = "Pepperoni", Description = "Pepperoni and Cheese", Price = 7.99f, Image = "pepperoni.jpg"}
+            new Pizza(){Id = 1, Name = "Margherita", Description = "Cheese and Tomato", Price = 5.99f, Image = "/images/margherita.jpg"},
+            new Pizza(){Id = 2, Name = "Pepperoni", Description = "Pepperoni and Cheese", Price = 7.99f, Image = "/images/pepperoni.jpg"}
         };
         public PizzaRepository() 
         {

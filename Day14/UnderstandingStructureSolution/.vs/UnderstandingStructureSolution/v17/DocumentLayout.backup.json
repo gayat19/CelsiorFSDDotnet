@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\models\\pizzaimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\models\\pizzaimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\models\\viewmodel\\pizzaimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\models\\viewmodel\\pizzaimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,6 +23,14 @@
       "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\models\\pizzaimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\models\\pizzaimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,12 +39,40 @@
       "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\repositories\\pizzaimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day14\\understandingstructuresolution\\understandingstructureapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27540493-3A69-4F4B-AEC3-3008705D63E3}|UnderstandingStructureApp\\UnderstandingStructureApp.csproj|solutionrelative:understandingstructureapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +90,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Services\\PizzaService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\PizzaService.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Services\\PizzaService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:05:08.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:04:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Controllers\\PizzaController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:38:28.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml*",
+              "RelativeToolTip": "UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:39:19.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Models\\Pizza.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\Pizza.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:05:54.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaImages.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\PizzaImages.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Models\\PizzaImages.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\PizzaImages.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Models\\PizzaImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:06:42.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PizzaImageViewModel.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Models\\ViewModel\\PizzaImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:07:41.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:06:02.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaImageRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:06:00.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:11:06.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Program.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:07:08.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:56:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Services\\LoginService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\LoginService.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:10:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:16:46.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserLogin.cshtml",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Views\\Login\\UserLogin.cshtml",
               "RelativeDocumentMoniker": "UnderstandingStructureApp\\Views\\Login\\UserLogin.cshtml",
@@ -99,72 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:16:46.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\LoginService.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Services\\LoginService.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\LoginService.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Services\\LoginService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:10:01.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:09:00.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pizza.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\Pizza.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Models\\Pizza.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\Pizza.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Models\\Pizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:05:54.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:56:40.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "UnderstandingStructureApp\\Models\\User.cs",
@@ -172,37 +293,23 @@
               "RelativeToolTip": "UnderstandingStructureApp\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:54:38.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Program.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Program.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Program.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwCYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:07:08.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PizzaService.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\PizzaService.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Services\\PizzaService.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Services\\PizzaService.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Services\\PizzaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:05:08.554Z"
+              "WhenOpened": "2024-09-23T08:54:38.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "UnderstandingStructureApp\\Interfaces\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:09:00.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "UnderstandingStructureApp\\Interfaces\\IRepository.cs",
@@ -211,91 +318,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T05:06:48.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PizzaRepository.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Repositories\\PizzaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T05:06:02.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PizzaImages.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\PizzaImages.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Models\\PizzaImages.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Models\\PizzaImages.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Models\\PizzaImages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T05:06:42.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PizzaController.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\PizzaController.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Controllers\\PizzaController.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\PizzaController.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Controllers\\PizzaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:38:28.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPizzaService.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Interfaces\\IPizzaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:04:21.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml",
-              "RelativeToolTip": "UnderstandingStructureApp\\Views\\Pizza\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T06:39:19.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:11:06.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PizzaImageRepository.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
-              "RelativeDocumentMoniker": "UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day14\\UnderstandingStructureSolution\\UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
-              "RelativeToolTip": "UnderstandingStructureApp\\Repositories\\PizzaImageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T05:06:00.848Z"
             }
           ]
         }
