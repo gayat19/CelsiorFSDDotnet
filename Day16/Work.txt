@@ -1,0 +1,10 @@
+1) Return from API -> HTTP status code
+1XX -> Information
+2XX -> Success
+3XX -> Redirection
+4XX -> Client side error
+5XX -> Server side error
+
+Task and async calls
+
+Stack trace

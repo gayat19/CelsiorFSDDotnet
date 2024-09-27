@@ -1,0 +1,8 @@
+1) Solve the bug
+Why do we get new items in the cart though the quantity is increased
+
+2) Add the order functionality to the same application
+Points to remember
+   After you add to order clear the cart for that customer
+   Check the items in orderdetails object
+   
