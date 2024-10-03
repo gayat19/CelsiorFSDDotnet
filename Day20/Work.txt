@@ -6,6 +6,9 @@ Types of Entities
   Strong - Key
   Weak
   Derived
+
+Types of Attribute
+  Multi-Value - A attribute that contains more than one unit of data that cannot be logically split to multiple columns
   
 Primary Key - Unique for every record , cannot be empty
 Composite Key - Combines more than 1 attribute to be the Primary key
@@ -27,11 +30,135 @@ ProductSupplier - R/E
    ProductId - CK-PK  & FK (1/2/3)
    SupplierID - CK -PK
    Price
+
+-------------------------------------
+
 Normalization
    1,2,3 NFs
 
+1st Normal Form
+  Table should have a primary key
+  No Multi-Valued Attribute(If present then put in a sperate table as multiple rows)
+  Every attribute should contain similar type of data
+
+2nd Normal Form(Only applicable for table with composite key)
+  Should be 1st NF
+  No Partial Dependency - If a table has Composite key, the  non key attributes should be dependent on the whole key
+	Remove the partially dependent attribute and the determining key attribute to a separate 	table
+
+3rd Normal Form
+  Should be in 2nd NF
+  No transitive dependency - If a non key attribute is dependent on another non key attribute which is dependent on the key attribute
+---------------------------------------------
+https://www.geeksforgeeks.org/normalization-process-in-dbms/
+-------------------------------------------------
+
 
 ERD - Entity Relation Diagram
+----------------------------------------
+https://www.guru99.com/er-diagram-tutorial-dbms.html#:~:text=How%20to%20Create%20an%20Entity%20Relationship
+----------------------------------------
+
+Case -1
+Shop -> Products
+Suppliers for every product
+One supplier can supply many products
+One product can be supplied by many suppliers
+Customers buy products
+Bill has to stored
+One purchase(Bill) can have many products
+The same product can be billed by many customers.
+
+Determine the tables
+Determine the attributes
+Determine the relation
+
+
+Product
+  Id
+  Name
+  Price
+  Quantity
+  
+
+Supplier
+  Id
+  Company Name
+  Contact Name
+  Phone
+
+ProductSupply
+  PO Number
+  Product Id
+  Supplier ID
+  DateOfSupply
+  Quantity
+  Price
+
+Customer
+  Id
+  Name
+  Phone
+  Age
+
+Billing
+  Bill Number
+  Customer Id
+  Date of Purchase
+  Total Bill Amount
+ 
+BillDetails
+  Bill Number
+  Product Id
+  Quantity
+  Price
+  Discount
+
+  
+------------------------------------------
+
+Case 2
+Employee raises Issue
+Employee solves issue(Depends on roles)
+Issue can have multiple level of solution
+Each solution is owned by a solver(Employee)
+
+
+Feedback for solution
+
+
+Employee 
+  Id
+  Name
+  Role
+  
+Issue
+  Id
+  Raised By(Employee Id)
+  Description
+  Status
+  Date Raised
+  Date Closed
+
+Solutions
+  Solution ID
+  Issue ID
+  Date
+  Solved By(Employee Id)
+  Solution Status
+
+Feedback
+  Feedback ID
+  Solution Id
+  Employee Id(optional)
+  DateOfFeedback
+  Rating
+  Comment
+
+
+  
+
+
 
 
 Basics of SQL -> DDL
