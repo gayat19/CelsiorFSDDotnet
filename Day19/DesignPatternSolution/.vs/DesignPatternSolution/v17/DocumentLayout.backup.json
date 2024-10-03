@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day19\\designpatternsolution\\factorypatternapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|solutionrelative:factorypatternapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day19\\designpatternsolution\\factorypatternapp\\iaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|solutionrelative:factorypatternapp\\iaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day19\\designpatternsolution\\factorypatternapp\\accountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|solutionrelative:factorypatternapp\\accountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day19\\designpatternsolution\\factorypatternapp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|solutionrelative:factorypatternapp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day19\\designpatternsolution\\factorypatternapp\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|solutionrelative:factorypatternapp\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day19\\designpatternsolution\\factorypatternapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|solutionrelative:factorypatternapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day19\\designpatternsolution\\factorypatternapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A2E068-642C-45AE-BC59-91F940F86105}|FactoryPatternApp\\FactoryPatternApp.csproj|solutionrelative:factorypatternapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\Bank.cs",
+              "RelativeDocumentMoniker": "FactoryPatternApp\\Bank.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\Bank.cs*",
+              "RelativeToolTip": "FactoryPatternApp\\Bank.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:49:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountFactory.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\AccountFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPatternApp\\AccountFactory.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\AccountFactory.cs",
+              "RelativeToolTip": "FactoryPatternApp\\AccountFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:47:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccountFactory.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\IAccountFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPatternApp\\IAccountFactory.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\IAccountFactory.cs",
+              "RelativeToolTip": "FactoryPatternApp\\IAccountFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:45:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "FactoryPatternApp\\SavingsAccount.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\SavingsAccount.cs",
+              "RelativeToolTip": "FactoryPatternApp\\SavingsAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:43:33.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "FactoryPatternApp\\CurrentAccount.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\CurrentAccount.cs",
+              "RelativeToolTip": "FactoryPatternApp\\CurrentAccount.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:39:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\Account.cs",
+              "RelativeDocumentMoniker": "FactoryPatternApp\\Account.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\Account.cs",
+              "RelativeToolTip": "FactoryPatternApp\\Account.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:37:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPatternApp\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day19\\DesignPatternSolution\\FactoryPatternApp\\Program.cs",
+              "RelativeToolTip": "FactoryPatternApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:36:56.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

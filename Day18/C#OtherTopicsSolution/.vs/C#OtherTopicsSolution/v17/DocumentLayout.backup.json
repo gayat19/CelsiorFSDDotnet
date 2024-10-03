@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day18\\c#othertopicssolution\\c#othertopicsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|solutionrelative:c#othertopicsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day18\\c#othertopicssolution\\c#othertopicsapp\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|solutionrelative:c#othertopicsapp\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day18\\c#othertopicssolution\\c#othertopicsapp\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|solutionrelative:c#othertopicsapp\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day18\\c#othertopicssolution\\c#othertopicsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|solutionrelative:c#othertopicsapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|d:\\corp\\genspark\\celsior\\participants\\day18\\c#othertopicssolution\\c#othertopicsapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E69174-7995-499A-A971-772280953366}|C#OtherTopicsApp\\C#OtherTopicsApp.csproj|solutionrelative:c#othertopicsapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Company.cs",
+              "RelativeDocumentMoniker": "C#OtherTopicsApp\\Company.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Company.cs",
+              "RelativeToolTip": "C#OtherTopicsApp\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:19:13.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Connection.cs",
+              "RelativeDocumentMoniker": "C#OtherTopicsApp\\Connection.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Connection.cs",
+              "RelativeToolTip": "C#OtherTopicsApp\\Connection.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:36:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Product.cs",
+              "RelativeDocumentMoniker": "C#OtherTopicsApp\\Product.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Product.cs",
+              "RelativeToolTip": "C#OtherTopicsApp\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:21:02.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Employee.cs",
+              "RelativeDocumentMoniker": "C#OtherTopicsApp\\Employee.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Employee.cs",
+              "RelativeToolTip": "C#OtherTopicsApp\\Employee.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA6wEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:09:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Program.cs",
+              "RelativeDocumentMoniker": "C#OtherTopicsApp\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day18\\C#OtherTopicsSolution\\C#OtherTopicsApp\\Program.cs",
+              "RelativeToolTip": "C#OtherTopicsApp\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:08:41.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

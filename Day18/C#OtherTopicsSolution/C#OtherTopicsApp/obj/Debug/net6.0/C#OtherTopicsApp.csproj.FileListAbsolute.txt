@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\bin\Debug\net6.0\C#OtherTopicsApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\bin\Debug\net6.0\C#OtherTopicsApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\bin\Debug\net6.0\C#OtherTopicsApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\bin\Debug\net6.0\C#OtherTopicsApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\bin\Debug\net6.0\C#OtherTopicsApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\refint\C#OtherTopicsApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\C#OtherTopicsApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day18\C#OtherTopicsSolution\C#OtherTopicsApp\obj\Debug\net6.0\ref\C#OtherTopicsApp.dll

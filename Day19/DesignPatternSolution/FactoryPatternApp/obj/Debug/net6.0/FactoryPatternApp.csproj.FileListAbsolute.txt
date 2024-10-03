@@ -1,0 +1,15 @@
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\bin\Debug\net6.0\FactoryPatternApp.exe
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\bin\Debug\net6.0\FactoryPatternApp.deps.json
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\bin\Debug\net6.0\FactoryPatternApp.runtimeconfig.json
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\bin\Debug\net6.0\FactoryPatternApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\bin\Debug\net6.0\FactoryPatternApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.AssemblyInfoInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.AssemblyInfo.cs
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.csproj.CoreCompileInputs.cache
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.sourcelink.json
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\refint\FactoryPatternApp.dll
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.pdb
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\FactoryPatternApp.genruntimeconfig.cache
+D:\Corp\GenSpark\Celsior\Participants\Day19\DesignPatternSolution\FactoryPatternApp\obj\Debug\net6.0\ref\FactoryPatternApp.dll

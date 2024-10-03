@@ -1,0 +1,37 @@
+RDBMS
+  Entity
+  Relation
+  Attributes
+Types of Entities
+  Strong - Key
+  Weak
+  Derived
+  
+Primary Key - Unique for every record , cannot be empty
+Composite Key - Combines more than 1 attribute to be the Primary key
+Foreign Key - Primary key of one table appearing in another table. Ensure relational Integrity
+
+Products -E
+   ProductId - PKA (1,2,3)
+   Name -A
+   Price - A
+   Quantity - A
+Supplier -E
+   SupplierID - PK
+   Contact Name
+   Phone
+   Company Name
+   Address
+   Email
+ProductSupplier - R/E
+   ProductId - CK-PK  & FK (1/2/3)
+   SupplierID - CK -PK
+   Price
+Normalization
+   1,2,3 NFs
+
+
+ERD - Entity Relation Diagram
+
+
+Basics of SQL -> DDL

@@ -1,0 +1,14 @@
+1) Destructor
+2) Indexer
+3) Operator Overloading
+4) private constructor
+5) Inner classes
+6) static constructor
+-------------------------------
+Post Lunch
+1) Need for Abstract class
+2) Methods in interface (Why)
+3) More on design pattern
+https://refactoring.guru/design-patterns/c-sharp
+
+

@@ -1,0 +1,6 @@
+1) Implement the POC for Abstract class using Accounts class example
+
+2) create 2 Interfaces with method and explain how the ambiguity  will be resolved.
+
+3) Creational - Factory, Builder, Singleton
+
