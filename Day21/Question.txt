@@ -1,16 +1,6 @@
+
+
 Question1
-Design the database for a shop which sells products
-Points for consideration
-  1) One product can be supplied by many suppliers
-  2) One supplier can supply many products
-  3) All customers details have to present
-  4) A customer can buy more than one product in every purchase
-  5) Bill for every purchase has to be stored
-  6) These are just details of one shop
-
-Note:- you do not have to store the shop details.
-
-Question2
 Case 1: A Simple Case on ER Modelling
 •	Goal – to demonstrate how to build an E-R model from a simple Statement of Objectives of a movie store. ( given very clearly in statement forms)
 Scenario:
@@ -29,7 +19,7 @@ o	Bronze Members:
  
 
 
-Question3
+Question2
 ( A little more abstract case )
 Create an ER Diagram for a student registration system where the entities are Students, Instructors, Courses and Schedules. Consider all the possible pairings. (Given not in statements form, but in a summarized way)
 
