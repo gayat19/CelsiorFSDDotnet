@@ -1,0 +1,16 @@
+1) Learn what is cross join
+Use Northwind database for the following queries
+2) Print the product from the category 'Dairy Products'
+3) Print the products supplied by 'Tokyo Traders'
+4) Print the categories in which 'Tokyo Traders' supply products
+5) Print all orders by customers from 'Spain'
+6) Print the Customer name and the freight charge
+7) Print product name and quantity sold for all orders
+8) print the products that are billed and the unbilled products with the price and sale price and the difference
+9) Print the order number, Customer name, Product name and the quantity sold for all orders
+10) Print the total order amount for every order(price*quantity)+freight
+11) Print the customer name, Phone, shipper name, phone for every order
+12) print the shipper name and number of order by the shipper and the total freight charge
+13) Print the product name, customer name, total quantity bought for all products sold by employees from 'USA'
+14) Print the product name, category and the total sale amount sorted by category, Include all products and all categories
+15) Print the category name and the total sale for category for all 
