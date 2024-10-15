@@ -1,0 +1,14 @@
+EF Core
+
+Code first Approach
+
+Microsoft.EntityFrameworkCore.SqlServer - 6.0.35
+Microsoft.EntityFrameworkCore.Tools 6.0.35
+
+Tools -> NuGet Package Manager -> Package Manager Console
+
+
+Add-Migration init
+update-database
+
+create the supplier table with Id, ContactName, Phone, Email	

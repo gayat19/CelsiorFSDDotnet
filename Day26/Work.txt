@@ -1,0 +1,39 @@
+1) Mridula
+Spelling Bee - The New York Times (nytimes.com)
+
+2) Johny
+https://www.nytimes.com/games/wordle/index.html
+
+3) Rohit
+A quiz
+Display 4 category for quiz. 
+Depending on selection 
+display 10 questions each
+Print the result. 
+
+4)  Disha
+Customer validation application
+Name, Dateof birth, Gender, Address, Email.
+Send a OTP to email for validation
+Use any free OTP service
+
+5) Sandeep
+Read a Excel file and load the customer data from the same
+Display the data
+Excel file should contain 
+Id, Name, Date of Birth, Phone, Email
+
+6) Niharika
+Take Picture path from user and Create a folder in a specific location with the CUstomer name 
+Store all the pictures given by customer in the location
+When another customer gives data the same process should be repeated
+
+7) Om
+Get details from customer
+Name, Age, Phone, Email, Skill, Experience
+Generate a PDF with proper format with the customer data as a profile.
+
+
+
+
+
