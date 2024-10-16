@@ -1,0 +1,9 @@
+Create the repository for Product
+Implement the Add Product, Update Product Price - In one Controller
+Get all products, Get Product By ID - In one Controller
+
+
+Add another model which will help to add more than one image for the product
+Create the table
+Create repository 
+Implement add images for product as end point.

@@ -1,0 +1,16 @@
+Create an application that will allow user to Login/Register
+Once done
+Ask user for Customer ID
+
+Allow application to interact with user using the following options
+1) View Previous Order (all orders sorted by date in desc)
+2) View Order summary - Order number, Customer name, Products ordered - take order number from user)
+3) View shipper details for given order number
+4) Update Password
+5) Exit
+
+Note
+
+Use the Northwind database for the same
+
+

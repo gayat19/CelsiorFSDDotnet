@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\mappers\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\mappers\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:09:19.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Program.cs*",
+              "RelativeToolTip": "EFCoreFirstAPI\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:07:45.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerBasicService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:05:49.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

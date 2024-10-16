@@ -1,0 +1,11 @@
+Create a database using code first approach for the following
+Doctor
+Patient
+Appointment
+
+Create an application that will allow patients to list doctors and book appointment for doctors
+Please ensure the doctor does not more than one appointment in the same time
+
+Please create menus accordingly
+Ensure you handle all the exceptions
+
