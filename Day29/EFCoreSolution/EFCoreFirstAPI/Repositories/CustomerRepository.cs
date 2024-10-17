@@ -9,10 +9,12 @@ namespace EFCoreFirstAPI.Repositories
     public class CustomerRepository : IRepository<int, Customer>
     {
         private readonly ShoppingContext _context;
+        private readonly ILogger<CustomerRepository> _logger;
 
-        public CustomerRepository(ShoppingContext shoppingContext) 
+        public CustomerRepository(ShoppingContext shoppingContext,ILogger<CustomerRepository> logger) 
         { 
             _context = shoppingContext;
+            _logger = logger;
         }
 
         public async Task<Customer> Add(Customer entity)
@@ -25,6 +27,7 @@ namespace EFCoreFirstAPI.Repositories
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex.Message);
                 throw new CouldNotAddException("Customer");
             }
         }
@@ -38,6 +41,7 @@ namespace EFCoreFirstAPI.Repositories
                 await _context.SaveChangesAsync();
                 return customer;
             }
+            _logger.LogError("Customer not found while trying to delete");
             throw new NotFoundException("Customer for delete");
         }
 

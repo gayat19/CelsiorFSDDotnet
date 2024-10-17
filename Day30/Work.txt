@@ -1,0 +1,10 @@
+Development - database
+Production  - original database
+Testing
+
+Microsoft.EntityFrameworkCore.InMemory
+
+
+Unit Testing
+
+Logging
