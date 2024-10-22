@@ -16,6 +16,8 @@ namespace EFCoreFirstAPI.Contexts
         public DbSet<Cart> Carts { get; set; }
         public DbSet<CartItem> CartItems { get; set; }
 
+        public DbSet<User> Users { get; set; }
+
         override protected void OnModelCreating(ModelBuilder modelBuilder)
         {
            modelBuilder.Entity<CartItem>().HasKey(ci=>ci.SNo).HasName("PK_CartItem");
@@ -44,7 +46,11 @@ namespace EFCoreFirstAPI.Contexts
                 .HasForeignKey<Cart>(c => c.CustomerId)
                 .HasConstraintName("FK_Cart_Customer");
 
-
+            modelBuilder.Entity<Customer>()
+                .HasOne(c=>c.User)
+                .WithOne(u=>u.Customer)
+                .HasForeignKey<Customer>(c => c.Username)
+                .HasConstraintName("FK_Customer_User");
         }
 
     }

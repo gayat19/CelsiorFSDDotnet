@@ -97,7 +97,14 @@ namespace EFCoreFirstAPI.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("Username")
+                        .IsUnique();
 
                     b.ToTable("Customers");
                 });
@@ -190,6 +197,27 @@ namespace EFCoreFirstAPI.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("EFCoreFirstAPI.Models.User", b =>
+                {
+                    b.Property<string>("Username")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<byte[]>("HashKey")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<byte[]>("Password")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<int>("Role")
+                        .HasColumnType("int");
+
+                    b.HasKey("Username");
+
+                    b.ToTable("Users");
+                });
+
             modelBuilder.Entity("EFCoreFirstAPI.Models.Cart", b =>
                 {
                     b.HasOne("EFCoreFirstAPI.Models.Customer", "Customer")
@@ -219,6 +247,18 @@ namespace EFCoreFirstAPI.Migrations
                     b.Navigation("Cart");
 
                     b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("EFCoreFirstAPI.Models.Customer", b =>
+                {
+                    b.HasOne("EFCoreFirstAPI.Models.User", "User")
+                        .WithOne("Customer")
+                        .HasForeignKey("EFCoreFirstAPI.Models.Customer", "Username")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired()
+                        .HasConstraintName("FK_Customer_User");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("EFCoreFirstAPI.Models.Order", b =>
@@ -275,6 +315,12 @@ namespace EFCoreFirstAPI.Migrations
             modelBuilder.Entity("EFCoreFirstAPI.Models.Product", b =>
                 {
                     b.Navigation("OrderDetails");
+                });
+
+            modelBuilder.Entity("EFCoreFirstAPI.Models.User", b =>
+                {
+                    b.Navigation("Customer")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

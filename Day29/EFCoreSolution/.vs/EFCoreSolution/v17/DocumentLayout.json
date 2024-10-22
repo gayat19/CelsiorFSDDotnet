@@ -3,60 +3,96 @@
   "WorkspaceRootPath": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcoretest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcoretest\\efcoretest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\efcoretest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\efcorefirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\efcorefirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Migrations\\20241022072720_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFCoreFirstAPI\\Migrations\\20241022072720_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcoretest\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcoretest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\mappers\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\mappers\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcoretest\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcoretest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcoretest\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA9BC8D-AD07-4065-95D5-4A3FC82050BC}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\mappers\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\mappers\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|d:\\corp\\genspark\\celsior\\participants\\day29\\efcoresolution\\efcorefirstapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B710D-E041-428F-8AAF-5DBF1BB981BA}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,175 +110,285 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "EFCoreFirstAPI\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABrAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "20241022072720_init.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Migrations\\20241022072720_init.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Migrations\\20241022072720_init.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Migrations\\20241022072720_init.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Migrations\\20241022072720_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:36:31.994Z",
+              "WhenOpened": "2024-10-22T07:27:20.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\appsettings.json",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\appsettings.json",
-              "RelativeToolTip": "EFCoreFirstAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-17T05:17:46.799Z"
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:17:10.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRepositoryTest.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\ProductRepositoryTest.cs",
-              "RelativeDocumentMoniker": "EFCoreTest\\ProductRepositoryTest.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\ProductRepositoryTest.cs",
-              "RelativeToolTip": "EFCoreTest\\ProductRepositoryTest.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\UserService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T05:15:55.327Z",
+              "WhenOpened": "2024-10-22T06:25:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\LoginRequestDTO.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:23:25.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:21:47.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepositoryTest.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\UserRepositoryTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\UserRepositoryTest.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\UserRepositoryTest.cs",
+              "RelativeToolTip": "EFCoreTest\\UserRepositoryTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:11:13.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:03:23.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CalculatorTest.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\CalculatorTest.cs",
-              "RelativeDocumentMoniker": "EFCoreTest\\CalculatorTest.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\CalculatorTest.cs",
-              "RelativeToolTip": "EFCoreTest\\CalculatorTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:32:01.005Z"
+              "WhenOpened": "2024-10-22T04:46:39.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowDMAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\User.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\User.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:06:13.646Z",
+              "WhenOpened": "2024-10-22T04:40:14.93Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:32:27.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EFCoreFirstAPI.csproj",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
-              "RelativeToolTip": "EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T09:20:07.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EFCoreTest.csproj",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\EFCoreTest.csproj",
-              "RelativeDocumentMoniker": "EFCoreTest\\EFCoreTest.csproj",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\EFCoreTest.csproj",
-              "RelativeToolTip": "EFCoreTest\\EFCoreTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T05:22:21.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Program.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Program.cs",
-              "RelativeToolTip": "EFCoreFirstAPI\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:07:45.575Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomerBasicService.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
-              "RelativeToolTip": "EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:05:49.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ShoppingContext.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
               "RelativeDocumentMoniker": "EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
               "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
               "RelativeToolTip": "EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAcwC8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:04:21.941Z"
+              "WhenOpened": "2024-10-22T04:52:21.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\UserServiceTest.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\UserServiceTest.cs",
+              "RelativeToolTip": "EFCoreTest\\UserServiceTest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:33:05.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorResponseDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:49:22.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:48:20.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Program.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Program.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:43:26.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\appsettings.json",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\appsettings.json",
+              "RelativeToolTip": "EFCoreFirstAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T04:59:02.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\Customer.cs",
               "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\Customer.cs",
               "RelativeToolTip": "EFCoreFirstAPI\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:18:03.695Z"
+              "WhenOpened": "2024-10-22T04:51:45.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CustomerDTO.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
-              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\ProductControllerTest.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\ProductControllerTest.cs",
+              "RelativeToolTip": "EFCoreTest\\ProductControllerTest.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAzwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:17:58.384Z"
+              "WhenOpened": "2024-10-18T06:06:55.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerProfile.cs",
-              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
-              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
-              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
-              "RelativeToolTip": "EFCoreFirstAPI\\Mappers\\CustomerProfile.cs",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:04:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Mappers\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Mappers\\ProductProfile.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Mappers\\ProductProfile.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Mappers\\ProductProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:09:19.26Z"
+              "WhenOpened": "2024-10-18T04:47:29.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:47:11.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:46:45.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreFirstAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:40:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\ProductServiceTest.cs",
+              "ToolTip": "D:\\Corp\\GenSpark\\Celsior\\Participants\\Day29\\EFCoreSolution\\EFCoreTest\\ProductServiceTest.cs",
+              "RelativeToolTip": "EFCoreTest\\ProductServiceTest.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvzgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:31:13.265Z"
             }
           ]
         }
