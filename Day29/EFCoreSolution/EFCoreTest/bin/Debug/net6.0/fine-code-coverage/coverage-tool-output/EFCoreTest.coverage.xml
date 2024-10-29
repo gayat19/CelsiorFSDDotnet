@@ -1,82 +1,86 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.5189" branch-rate="0.14279999999999998" version="1.9" timestamp="1729581406" lines-covered="328" lines-valid="632" branches-covered="4" branches-valid="28">
+<coverage line-rate="0.48869999999999997" branch-rate="0.1052" version="1.9" timestamp="1730092227" lines-covered="346" lines-valid="708" branches-covered="4" branches-valid="38">
   <sources>
     <source>D:\Corp\GenSpark\Celsior\Participants\Day29\EFCoreSolution\</source>
     <source>C:\</source>
   </sources>
   <packages>
-    <package name="EFCoreFirstAPI" line-rate="0.35619999999999996" branch-rate="0.14279999999999998" complexity="144">
+    <package name="EFCoreFirstAPI" line-rate="0.3358" branch-rate="0.1052" complexity="161">
       <classes>
         <class name="EFCoreFirstAPI.Program" filename="EFCoreFirstAPI\Program.cs" line-rate="0" branch-rate="0" complexity="2">
           <methods>
             <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="0" complexity="2">
               <lines>
-                <line number="13" hits="0" branch="False" />
-                <line number="14" hits="0" branch="False" />
-                <line number="19" hits="0" branch="False" />
-                <line number="20" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
                 <line number="21" hits="0" branch="False" />
-                <line number="22" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
                 <line number="26" hits="0" branch="False" />
                 <line number="27" hits="0" branch="False" />
-                <line number="31" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
                 <line number="32" hits="0" branch="False" />
                 <line number="33" hits="0" branch="False" />
                 <line number="37" hits="0" branch="False" />
                 <line number="38" hits="0" branch="False" />
                 <line number="39" hits="0" branch="False" />
-                <line number="41" hits="0" branch="False" />
                 <line number="43" hits="0" branch="False" />
                 <line number="44" hits="0" branch="False" />
+                <line number="45" hits="0" branch="False" />
                 <line number="46" hits="0" branch="False" />
-                <line number="49" hits="0" branch="True" condition-coverage="0% (0/2)">
-                  <conditions>
-                    <condition number="301" type="jump" coverage="0%" />
-                  </conditions>
-                </line>
+                <line number="48" hits="0" branch="False" />
                 <line number="50" hits="0" branch="False" />
                 <line number="51" hits="0" branch="False" />
-                <line number="52" hits="0" branch="False" />
                 <line number="53" hits="0" branch="False" />
-                <line number="55" hits="0" branch="False" />
+                <line number="56" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="335" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="57" hits="0" branch="False" />
                 <line number="58" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
                 <line number="60" hits="0" branch="False" />
-                <line number="61" hits="0" branch="False" />
+                <line number="62" hits="0" branch="False" />
+                <line number="65" hits="0" branch="False" />
+                <line number="67" hits="0" branch="False" />
+                <line number="68" hits="0" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="13" hits="0" branch="False" />
-            <line number="14" hits="0" branch="False" />
-            <line number="19" hits="0" branch="False" />
-            <line number="20" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
             <line number="21" hits="0" branch="False" />
-            <line number="22" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
             <line number="26" hits="0" branch="False" />
             <line number="27" hits="0" branch="False" />
-            <line number="31" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
             <line number="32" hits="0" branch="False" />
             <line number="33" hits="0" branch="False" />
             <line number="37" hits="0" branch="False" />
             <line number="38" hits="0" branch="False" />
             <line number="39" hits="0" branch="False" />
-            <line number="41" hits="0" branch="False" />
             <line number="43" hits="0" branch="False" />
             <line number="44" hits="0" branch="False" />
+            <line number="45" hits="0" branch="False" />
             <line number="46" hits="0" branch="False" />
-            <line number="49" hits="0" branch="True" condition-coverage="0% (0/2)">
-              <conditions>
-                <condition number="301" type="jump" coverage="0%" />
-              </conditions>
-            </line>
+            <line number="48" hits="0" branch="False" />
             <line number="50" hits="0" branch="False" />
             <line number="51" hits="0" branch="False" />
-            <line number="52" hits="0" branch="False" />
             <line number="53" hits="0" branch="False" />
-            <line number="55" hits="0" branch="False" />
+            <line number="56" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="335" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="57" hits="0" branch="False" />
             <line number="58" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
             <line number="60" hits="0" branch="False" />
-            <line number="61" hits="0" branch="False" />
+            <line number="62" hits="0" branch="False" />
+            <line number="65" hits="0" branch="False" />
+            <line number="67" hits="0" branch="False" />
+            <line number="68" hits="0" branch="False" />
           </lines>
         </class>
         <class name="EFCoreFirstAPI.WeatherForecast" filename="EFCoreFirstAPI\WeatherForecast.cs" line-rate="0" branch-rate="1" complexity="4">
@@ -241,15 +245,84 @@
             <line number="26" hits="2" branch="False" />
           </lines>
         </class>
+        <class name="EFCoreFirstAPI.Services.TokenService" filename="EFCoreFirstAPI\Services\TokenService.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="(Microsoft.Extensions.Configuration.IConfiguration)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="2" branch="False" />
+                <line number="15" hits="2" branch="False" />
+                <line number="16" hits="2" branch="False" />
+                <line number="17" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="2" branch="False" />
+            <line number="15" hits="2" branch="False" />
+            <line number="16" hits="2" branch="False" />
+            <line number="17" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="EFCoreFirstAPI.Services.TokenService/&lt;GenerateToken&gt;d__2" filename="EFCoreFirstAPI\Services\TokenService.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+          </lines>
+        </class>
         <class name="EFCoreFirstAPI.Services.UserService" filename="EFCoreFirstAPI\Services\UserService.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
-            <method name=".ctor" signature="(EFCoreFirstAPI.Interfaces.IRepository`2&lt;System.String,EFCoreFirstAPI.Models.User&gt;,Microsoft.Extensions.Logging.ILogger`1&lt;EFCoreFirstAPI.Services.UserService&gt;)" line-rate="1" branch-rate="1" complexity="1">
+            <method name=".ctor" signature="(EFCoreFirstAPI.Interfaces.IRepository`2&lt;System.String,EFCoreFirstAPI.Models.User&gt;,EFCoreFirstAPI.Interfaces.ITokenService,Microsoft.Extensions.Logging.ILogger`1&lt;EFCoreFirstAPI.Services.UserService&gt;)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="16" hits="2" branch="False" />
                 <line number="17" hits="2" branch="False" />
                 <line number="18" hits="2" branch="False" />
                 <line number="19" hits="2" branch="False" />
+                <line number="20" hits="2" branch="False" />
                 <line number="21" hits="2" branch="False" />
+                <line number="22" hits="2" branch="False" />
+                <line number="25" hits="2" branch="False" />
               </lines>
             </method>
           </methods>
@@ -258,93 +331,99 @@
             <line number="17" hits="2" branch="False" />
             <line number="18" hits="2" branch="False" />
             <line number="19" hits="2" branch="False" />
+            <line number="20" hits="2" branch="False" />
             <line number="21" hits="2" branch="False" />
+            <line number="22" hits="2" branch="False" />
+            <line number="25" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="EFCoreFirstAPI.Services.UserService/&lt;Autheticate&gt;d__3" filename="EFCoreFirstAPI\Services\UserService.cs" line-rate="0.7777" branch-rate="0.6666" complexity="6">
+        <class name="EFCoreFirstAPI.Services.UserService/&lt;Autheticate&gt;d__4" filename="EFCoreFirstAPI\Services\UserService.cs" line-rate="0.8332999999999999" branch-rate="0.6666" complexity="6">
           <methods>
-            <method name="MoveNext" signature="()" line-rate="0.7777" branch-rate="0.6666" complexity="6">
+            <method name="MoveNext" signature="()" line-rate="0.8332999999999999" branch-rate="0.6666" complexity="6">
               <lines>
-                <line number="23" hits="1" branch="False" />
-                <line number="24" hits="1" branch="False" />
-                <line number="25" hits="1" branch="True" condition-coverage="50% (1/2)">
+                <line number="27" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="True" condition-coverage="50% (1/2)">
                   <conditions>
-                    <condition number="169" type="jump" coverage="50%" />
+                    <condition number="180" type="jump" coverage="50%" />
                   </conditions>
                 </line>
-                <line number="26" hits="0" branch="False" />
-                <line number="27" hits="0" branch="False" />
-                <line number="29" hits="1" branch="False" />
-                <line number="30" hits="1" branch="False" />
-                <line number="31" hits="66" branch="True" condition-coverage="100% (2/2)">
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="33" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="66" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
-                    <condition number="346" type="jump" coverage="100%" />
+                    <condition number="357" type="jump" coverage="100%" />
                   </conditions>
                 </line>
-                <line number="32" hits="32" branch="False" />
-                <line number="33" hits="32" branch="True" condition-coverage="50% (1/2)">
+                <line number="36" hits="32" branch="False" />
+                <line number="37" hits="32" branch="True" condition-coverage="50% (1/2)">
                   <conditions>
-                    <condition number="293" type="jump" coverage="50%" />
+                    <condition number="304" type="jump" coverage="50%" />
                   </conditions>
                 </line>
-                <line number="34" hits="0" branch="False" />
-                <line number="35" hits="0" branch="False" />
-                <line number="37" hits="32" branch="False" />
-                <line number="38" hits="1" branch="False" />
-                <line number="39" hits="1" branch="False" />
-                <line number="40" hits="1" branch="False" />
-                <line number="41" hits="1" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="41" hits="32" branch="False" />
                 <line number="42" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+                <line number="46" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="48" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="23" hits="1" branch="False" />
-            <line number="24" hits="1" branch="False" />
-            <line number="25" hits="1" branch="True" condition-coverage="50% (1/2)">
+            <line number="27" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="True" condition-coverage="50% (1/2)">
               <conditions>
-                <condition number="169" type="jump" coverage="50%" />
+                <condition number="180" type="jump" coverage="50%" />
               </conditions>
             </line>
-            <line number="26" hits="0" branch="False" />
-            <line number="27" hits="0" branch="False" />
-            <line number="29" hits="1" branch="False" />
-            <line number="30" hits="1" branch="False" />
-            <line number="31" hits="66" branch="True" condition-coverage="100% (2/2)">
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="66" branch="True" condition-coverage="100% (2/2)">
               <conditions>
-                <condition number="346" type="jump" coverage="100%" />
+                <condition number="357" type="jump" coverage="100%" />
               </conditions>
             </line>
-            <line number="32" hits="32" branch="False" />
-            <line number="33" hits="32" branch="True" condition-coverage="50% (1/2)">
+            <line number="36" hits="32" branch="False" />
+            <line number="37" hits="32" branch="True" condition-coverage="50% (1/2)">
               <conditions>
-                <condition number="293" type="jump" coverage="50%" />
+                <condition number="304" type="jump" coverage="50%" />
               </conditions>
             </line>
-            <line number="34" hits="0" branch="False" />
-            <line number="35" hits="0" branch="False" />
-            <line number="37" hits="32" branch="False" />
-            <line number="38" hits="1" branch="False" />
-            <line number="39" hits="1" branch="False" />
-            <line number="40" hits="1" branch="False" />
-            <line number="41" hits="1" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="41" hits="32" branch="False" />
             <line number="42" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="48" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="EFCoreFirstAPI.Services.UserService/&lt;Register&gt;d__4" filename="EFCoreFirstAPI\Services\UserService.cs" line-rate="0.8181" branch-rate="1" complexity="1">
+        <class name="EFCoreFirstAPI.Services.UserService/&lt;Register&gt;d__5" filename="EFCoreFirstAPI\Services\UserService.cs" line-rate="0.8181" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0.8181" branch-rate="1" complexity="1">
               <lines>
-                <line number="45" hits="2" branch="False" />
-                <line number="46" hits="2" branch="False" />
-                <line number="47" hits="2" branch="False" />
-                <line number="48" hits="2" branch="False" />
-                <line number="49" hits="2" branch="False" />
-                <line number="50" hits="2" branch="False" />
-                <line number="51" hits="2" branch="False" />
-                <line number="52" hits="2" branch="False" />
-                <line number="53" hits="2" branch="False" />
-                <line number="54" hits="2" branch="False" />
+                <line number="55" hits="2" branch="False" />
                 <line number="56" hits="2" branch="False" />
                 <line number="57" hits="2" branch="False" />
                 <line number="58" hits="2" branch="False" />
@@ -352,25 +431,25 @@
                 <line number="60" hits="2" branch="False" />
                 <line number="61" hits="2" branch="False" />
                 <line number="62" hits="2" branch="False" />
-                <line number="64" hits="0" branch="False" />
-                <line number="65" hits="0" branch="False" />
-                <line number="66" hits="0" branch="False" />
-                <line number="67" hits="0" branch="False" />
+                <line number="63" hits="2" branch="False" />
+                <line number="64" hits="2" branch="False" />
+                <line number="66" hits="2" branch="False" />
+                <line number="67" hits="2" branch="False" />
+                <line number="68" hits="2" branch="False" />
                 <line number="69" hits="2" branch="False" />
+                <line number="70" hits="2" branch="False" />
+                <line number="71" hits="2" branch="False" />
+                <line number="72" hits="2" branch="False" />
+                <line number="74" hits="0" branch="False" />
+                <line number="75" hits="0" branch="False" />
+                <line number="76" hits="0" branch="False" />
+                <line number="77" hits="0" branch="False" />
+                <line number="79" hits="2" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="45" hits="2" branch="False" />
-            <line number="46" hits="2" branch="False" />
-            <line number="47" hits="2" branch="False" />
-            <line number="48" hits="2" branch="False" />
-            <line number="49" hits="2" branch="False" />
-            <line number="50" hits="2" branch="False" />
-            <line number="51" hits="2" branch="False" />
-            <line number="52" hits="2" branch="False" />
-            <line number="53" hits="2" branch="False" />
-            <line number="54" hits="2" branch="False" />
+            <line number="55" hits="2" branch="False" />
             <line number="56" hits="2" branch="False" />
             <line number="57" hits="2" branch="False" />
             <line number="58" hits="2" branch="False" />
@@ -378,11 +457,20 @@
             <line number="60" hits="2" branch="False" />
             <line number="61" hits="2" branch="False" />
             <line number="62" hits="2" branch="False" />
-            <line number="64" hits="0" branch="False" />
-            <line number="65" hits="0" branch="False" />
-            <line number="66" hits="0" branch="False" />
-            <line number="67" hits="0" branch="False" />
+            <line number="63" hits="2" branch="False" />
+            <line number="64" hits="2" branch="False" />
+            <line number="66" hits="2" branch="False" />
+            <line number="67" hits="2" branch="False" />
+            <line number="68" hits="2" branch="False" />
             <line number="69" hits="2" branch="False" />
+            <line number="70" hits="2" branch="False" />
+            <line number="71" hits="2" branch="False" />
+            <line number="72" hits="2" branch="False" />
+            <line number="74" hits="0" branch="False" />
+            <line number="75" hits="0" branch="False" />
+            <line number="76" hits="0" branch="False" />
+            <line number="77" hits="0" branch="False" />
+            <line number="79" hits="2" branch="False" />
           </lines>
         </class>
         <class name="EFCoreFirstAPI.Repositories.CustomerRepository" filename="EFCoreFirstAPI\Repositories\CustomerRepository.cs" line-rate="0" branch-rate="1" complexity="1">
@@ -1313,7 +1401,7 @@
           <methods>
             <method name="get_Username" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="15" hits="12" branch="False" />
+                <line number="15" hits="13" branch="False" />
               </lines>
             </method>
             <method name="get_Password" signature="()" line-rate="1" branch-rate="1" complexity="1">
@@ -1328,7 +1416,7 @@
             </method>
             <method name="get_Role" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="18" hits="4" branch="False" />
+                <line number="18" hits="5" branch="False" />
               </lines>
             </method>
             <method name="get_Customer" signature="()" line-rate="0" branch-rate="1" complexity="1">
@@ -1338,10 +1426,10 @@
             </method>
           </methods>
           <lines>
-            <line number="15" hits="12" branch="False" />
+            <line number="15" hits="13" branch="False" />
             <line number="16" hits="36" branch="False" />
             <line number="17" hits="5" branch="False" />
-            <line number="18" hits="4" branch="False" />
+            <line number="18" hits="5" branch="False" />
             <line number="19" hits="0" branch="False" />
           </lines>
         </class>
@@ -1420,13 +1508,13 @@
             </method>
             <method name="get_Token" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="6" hits="3" branch="False" />
+                <line number="6" hits="4" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
             <line number="5" hits="9" branch="False" />
-            <line number="6" hits="3" branch="False" />
+            <line number="6" hits="4" branch="False" />
           </lines>
         </class>
         <class name="EFCoreFirstAPI.Models.DTOs.ProductDTO" filename="EFCoreFirstAPI\Models\DTOs\ProductDTO.cs" line-rate="1" branch-rate="1" complexity="5">
@@ -1469,24 +1557,134 @@
           <methods>
             <method name="get_Username" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="5" hits="8" branch="False" />
+                <line number="11" hits="8" branch="False" />
               </lines>
             </method>
             <method name="get_Password" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="6" hits="7" branch="False" />
+                <line number="16" hits="7" branch="False" />
               </lines>
             </method>
             <method name="get_Role" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="7" hits="4" branch="False" />
+                <line number="18" hits="4" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="5" hits="8" branch="False" />
-            <line number="6" hits="7" branch="False" />
-            <line number="7" hits="4" branch="False" />
+            <line number="11" hits="8" branch="False" />
+            <line number="16" hits="7" branch="False" />
+            <line number="18" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="EFCoreFirstAPI.Models.DTOs.UserTokenDTO" filename="EFCoreFirstAPI\Models\DTOs\UserTokenDTO.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Username" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Role" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="2" branch="False" />
+            <line number="6" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="EFCoreFirstAPI.Misc.CustomExceptionFilter" filename="EFCoreFirstAPI\Misc\CustomExceptionFilter.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="OnException" signature="(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="EFCoreFirstAPI.Misc.UsernameValidator" filename="EFCoreFirstAPI\Misc\UsernameValidator.cs" line-rate="0" branch-rate="0" complexity="8">
+          <methods>
+            <method name="IsValid" signature="(System.Object,System.ComponentModel.DataAnnotations.ValidationContext)" line-rate="0" branch-rate="0" complexity="8">
+              <lines>
+                <line number="8" hits="0" branch="False" />
+                <line number="9" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="False" />
+                <line number="13" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="30" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="14" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="50" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="81" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="0" branch="False" />
+            <line number="9" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="13" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="30" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="14" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="50" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="81" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
           </lines>
         </class>
         <class name="EFCoreFirstAPI.Mappers.CustomerProfile" filename="EFCoreFirstAPI\Mappers\CustomerProfile.cs" line-rate="0" branch-rate="1" complexity="1">
@@ -1705,6 +1903,78 @@
             <line number="36" hits="1" branch="False" />
           </lines>
         </class>
+        <class name="EFCoreFirstAPI.Controllers.UserController" filename="EFCoreFirstAPI\Controllers\UserController.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="(Microsoft.Extensions.Logging.ILogger`1&lt;EFCoreFirstAPI.Controllers.UserController&gt;,EFCoreFirstAPI.Interfaces.IUserService)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="EFCoreFirstAPI.Controllers.UserController/&lt;Login&gt;d__4" filename="EFCoreFirstAPI\Controllers\UserController.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="EFCoreFirstAPI.Controllers.UserController/&lt;Register&gt;d__3" filename="EFCoreFirstAPI\Controllers\UserController.cs" line-rate="0" branch-rate="0" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="33" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="33" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+          </lines>
+        </class>
         <class name="EFCoreFirstAPI.Controllers.WeatherForecastController" filename="EFCoreFirstAPI\Controllers\WeatherForecastController.cs" line-rate="0" branch-rate="1" complexity="3">
           <methods>
             <method name="Get" signature="()" line-rate="0" branch-rate="1" complexity="1">
@@ -1877,7 +2147,7 @@
         </class>
       </classes>
     </package>
-    <package name="EFCoreTest" line-rate="0.9759" branch-rate="1" complexity="17">
+    <package name="EFCoreTest" line-rate="0.9763" branch-rate="1" complexity="17">
       <classes>
         <class name="AutoGeneratedProgram" filename="Users\gayat\.nuget\packages\microsoft.net.test.sdk\17.5.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -2277,74 +2547,72 @@
           <methods>
             <method name="Setup" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="26" hits="2" branch="False" />
-                <line number="27" hits="2" branch="False" />
-                <line number="28" hits="2" branch="False" />
-                <line number="29" hits="2" branch="False" />
                 <line number="30" hits="2" branch="False" />
                 <line number="31" hits="2" branch="False" />
                 <line number="32" hits="2" branch="False" />
                 <line number="33" hits="2" branch="False" />
                 <line number="34" hits="2" branch="False" />
+                <line number="35" hits="2" branch="False" />
+                <line number="36" hits="2" branch="False" />
+                <line number="37" hits="2" branch="False" />
+                <line number="38" hits="2" branch="False" />
+                <line number="39" hits="2" branch="False" />
+                <line number="40" hits="2" branch="False" />
+                <line number="42" hits="2" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="26" hits="2" branch="False" />
-            <line number="27" hits="2" branch="False" />
-            <line number="28" hits="2" branch="False" />
-            <line number="29" hits="2" branch="False" />
             <line number="30" hits="2" branch="False" />
             <line number="31" hits="2" branch="False" />
             <line number="32" hits="2" branch="False" />
             <line number="33" hits="2" branch="False" />
             <line number="34" hits="2" branch="False" />
+            <line number="35" hits="2" branch="False" />
+            <line number="36" hits="2" branch="False" />
+            <line number="37" hits="2" branch="False" />
+            <line number="38" hits="2" branch="False" />
+            <line number="39" hits="2" branch="False" />
+            <line number="40" hits="2" branch="False" />
+            <line number="42" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="EFCoreTest.UserServiceTest/&lt;TestAdd&gt;d__6" filename="EFCoreTest\UserServiceTest.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="EFCoreTest.UserServiceTest/&lt;TestAdd&gt;d__8" filename="EFCoreTest\UserServiceTest.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="39" hits="1" branch="False" />
-                <line number="40" hits="1" branch="False" />
-                <line number="41" hits="1" branch="False" />
-                <line number="42" hits="1" branch="False" />
-                <line number="43" hits="1" branch="False" />
-                <line number="44" hits="1" branch="False" />
-                <line number="45" hits="1" branch="False" />
-                <line number="46" hits="1" branch="False" />
                 <line number="47" hits="1" branch="False" />
                 <line number="48" hits="1" branch="False" />
                 <line number="49" hits="1" branch="False" />
-              </lines>
-            </method>
-          </methods>
-          <lines>
-            <line number="39" hits="1" branch="False" />
-            <line number="40" hits="1" branch="False" />
-            <line number="41" hits="1" branch="False" />
-            <line number="42" hits="1" branch="False" />
-            <line number="43" hits="1" branch="False" />
-            <line number="44" hits="1" branch="False" />
-            <line number="45" hits="1" branch="False" />
-            <line number="46" hits="1" branch="False" />
-            <line number="47" hits="1" branch="False" />
-            <line number="48" hits="1" branch="False" />
-            <line number="49" hits="1" branch="False" />
-          </lines>
-        </class>
-        <class name="EFCoreTest.UserServiceTest/&lt;TestAuthenticate&gt;d__7" filename="EFCoreTest\UserServiceTest.cs" line-rate="1" branch-rate="1" complexity="1">
-          <methods>
-            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
-              <lines>
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
                 <line number="53" hits="1" branch="False" />
                 <line number="54" hits="1" branch="False" />
                 <line number="55" hits="1" branch="False" />
                 <line number="56" hits="1" branch="False" />
                 <line number="57" hits="1" branch="False" />
-                <line number="58" hits="1" branch="False" />
-                <line number="59" hits="1" branch="False" />
-                <line number="60" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="47" hits="1" branch="False" />
+            <line number="48" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="53" hits="1" branch="False" />
+            <line number="54" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="56" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="EFCoreTest.UserServiceTest/&lt;TestAuthenticate&gt;d__9" filename="EFCoreTest\UserServiceTest.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
                 <line number="61" hits="1" branch="False" />
                 <line number="62" hits="1" branch="False" />
                 <line number="63" hits="1" branch="False" />
@@ -2353,18 +2621,18 @@
                 <line number="66" hits="1" branch="False" />
                 <line number="67" hits="1" branch="False" />
                 <line number="68" hits="1" branch="False" />
+                <line number="69" hits="1" branch="False" />
+                <line number="70" hits="1" branch="False" />
+                <line number="71" hits="1" branch="False" />
+                <line number="72" hits="1" branch="False" />
+                <line number="73" hits="1" branch="False" />
+                <line number="74" hits="1" branch="False" />
+                <line number="75" hits="1" branch="False" />
+                <line number="76" hits="1" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="53" hits="1" branch="False" />
-            <line number="54" hits="1" branch="False" />
-            <line number="55" hits="1" branch="False" />
-            <line number="56" hits="1" branch="False" />
-            <line number="57" hits="1" branch="False" />
-            <line number="58" hits="1" branch="False" />
-            <line number="59" hits="1" branch="False" />
-            <line number="60" hits="1" branch="False" />
             <line number="61" hits="1" branch="False" />
             <line number="62" hits="1" branch="False" />
             <line number="63" hits="1" branch="False" />
@@ -2373,6 +2641,14 @@
             <line number="66" hits="1" branch="False" />
             <line number="67" hits="1" branch="False" />
             <line number="68" hits="1" branch="False" />
+            <line number="69" hits="1" branch="False" />
+            <line number="70" hits="1" branch="False" />
+            <line number="71" hits="1" branch="False" />
+            <line number="72" hits="1" branch="False" />
+            <line number="73" hits="1" branch="False" />
+            <line number="74" hits="1" branch="False" />
+            <line number="75" hits="1" branch="False" />
+            <line number="76" hits="1" branch="False" />
           </lines>
         </class>
       </classes>

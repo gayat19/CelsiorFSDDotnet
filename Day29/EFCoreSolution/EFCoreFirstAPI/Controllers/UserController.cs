@@ -1,4 +1,5 @@
 ﻿using EFCoreFirstAPI.Interfaces;
+using EFCoreFirstAPI.Misc;
 using EFCoreFirstAPI.Models.DTOs;
 using EFCoreFirstAPI.Services;
 using Microsoft.AspNetCore.Http;
@@ -7,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace EFCoreFirstAPI.Controllers
 {
     [Route("api/[controller]")]
+    [CustomExceptionFilter]
     [ApiController]
     public class UserController : ControllerBase
     {
@@ -21,39 +23,23 @@ namespace EFCoreFirstAPI.Controllers
         [HttpPost("Register")]
         public async Task<ActionResult<LoginResponseDTO>> Register(UserCreateDTO createDTO)
         {
-           try
-            {
-                var user = await _userService.Register(createDTO);
-                return Ok(user);
-            }
-            catch(Exception e)
-            {
-                _logger.LogError(e, "Could not register user");
-                return BadRequest(new ErrorResponseDTO
+               if(ModelState.IsValid)
                 {
-                    ErrorMessage = e.Message,
-                    ErrorNumber = 500
-                });
-            }
+                    var user = await _userService.Register(createDTO);
+                    return Ok(user);
+                }
+                else
+                {
+                    throw new Exception("one or more validation errors");
+                }
+            
         }
 
         [HttpPost("Login")]
         public async Task<ActionResult<LoginResponseDTO>> Login(LoginRequestDTO requestDTO)
         {
-            try
-            {
-                var user = await _userService.Autheticate(requestDTO);
-                return Ok(user);
-            }
-            catch (Exception e)
-            {
-                _logger.LogError(e, "Invalid username or password");
-                return Unauthorized(new ErrorResponseDTO
-                {
-                    ErrorMessage = e.Message,
-                    ErrorNumber = 401
-                });
-            }
+            var user = await _userService.Autheticate(requestDTO);
+            return Ok(user);
         }
     }
 }

@@ -1,9 +1,11 @@
-﻿using EFCoreFirstAPI.Contexts;
+﻿
+using EFCoreFirstAPI.Contexts;
 using EFCoreFirstAPI.Models;
 using EFCoreFirstAPI.Models.DTOs;
 using EFCoreFirstAPI.Repositories;
 using EFCoreFirstAPI.Services;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Moq;
 using System;
@@ -21,6 +23,8 @@ namespace EFCoreTest
         UserRepository repository;
         Mock<ILogger<UserRepository>> loggerUserRepo;
         Mock<ILogger<UserService>> loggerUserService;
+        Mock<TokenService> mockTokenService;
+        Mock<IConfiguration> mockConfiguration;
         [SetUp]
         public void Setup()
         {
@@ -31,6 +35,10 @@ namespace EFCoreTest
             loggerUserRepo = new Mock<ILogger<UserRepository>>();
             loggerUserService = new Mock<ILogger<UserService>>();
             repository = new UserRepository(context, loggerUserRepo.Object);
+            mockConfiguration = new Mock<IConfiguration>();
+            mockTokenService = new Mock<TokenService>(mockConfiguration.Object);
+            mockTokenService.Setup(t => t.GenerateToken(It.IsAny<UserTokenDTO>())).ReturnsAsync("TestToken");
+
         }
 
         [Test]
@@ -43,7 +51,7 @@ namespace EFCoreTest
                 Password = password,
                 Role = role
             };
-            var userService = new UserService(repository, loggerUserService.Object);
+            var userService = new UserService(repository,mockTokenService.Object, loggerUserService.Object);
             var addedUser = await userService.Register(user);
             Assert.IsTrue(addedUser.Username == user.Username);
         }
@@ -57,7 +65,7 @@ namespace EFCoreTest
                 Password = "TestPassword1",
                 Role = Roles.Admin
             };
-            var userService = new UserService(repository, loggerUserService.Object);
+            var userService = new UserService(repository, mockTokenService.Object, loggerUserService.Object);
             var addedUser = await userService.Register(user);
             var loggedInUser = await userService.Autheticate(new LoginRequestDTO
             {

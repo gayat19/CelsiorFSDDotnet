@@ -70,3 +70,5 @@ D:\Corp\GenSpark\Celsior\Participants\Day29\EFCoreSolution\EFCoreFirstAPI\obj\De
 D:\Corp\GenSpark\Celsior\Participants\Day29\EFCoreSolution\EFCoreFirstAPI\obj\Debug\net6.0\ref\EFCoreFirstAPI.dll
 D:\Corp\GenSpark\Celsior\Participants\Day29\EFCoreSolution\EFCoreFirstAPI\bin\Debug\net6.0\AutoMapper.dll
 D:\Corp\GenSpark\Celsior\Participants\Day29\EFCoreSolution\EFCoreFirstAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Corp\GenSpark\Celsior\Participants\Day29\EFCoreSolution\EFCoreFirstAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Corp\GenSpark\Celsior\Participants\Day29\EFCoreSolution\EFCoreFirstAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

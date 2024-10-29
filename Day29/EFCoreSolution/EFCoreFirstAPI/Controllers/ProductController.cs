@@ -1,6 +1,7 @@
 ﻿using EFCoreFirstAPI.Interfaces;
 using EFCoreFirstAPI.Models.DTOs;
 using EFCoreFirstAPI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,6 +21,7 @@ namespace EFCoreFirstAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> AddProduct(ProductDTO product)
         {
             try

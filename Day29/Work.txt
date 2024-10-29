@@ -1,0 +1,11 @@
+Customer - Id, Name, Phone, DateOfBirth, Age, Email
+
+Product - ID, Name, Price, Quantity, Description, BasicImage
+
+Order - OrderNumber, CustomerId, OrderDate, TotalAmount
+
+OrderDetails - SiNo, OrderNumber, ProductID, Quantity, Price, Discount
+
+Cart - CartNumber, CustomerId, CreationDate
+
+CartItem - SiNo, CartNumber, ProductId, Quantity
