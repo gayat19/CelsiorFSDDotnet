@@ -21,7 +21,7 @@ namespace EFCoreFirstAPI.Services
             var _claims = new[]
                 {
                     new Claim(JwtRegisteredClaimNames.GivenName, user.Username),
-                    new Claim("Role", user.Role),
+                    new Claim(ClaimTypes.Role, user.Role),
 
                 };
 

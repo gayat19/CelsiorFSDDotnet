@@ -21,7 +21,7 @@ namespace EFCoreFirstAPI.Controllers
         }
 
         [HttpPost]
-        [Authorize]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> AddProduct(ProductDTO product)
         {
             try
@@ -34,6 +34,21 @@ namespace EFCoreFirstAPI.Controllers
             {
                 _logger.LogError(ex.Message);
                 return BadRequest(ex.Message);
+            }
+        }
+        [HttpGet]
+        [Authorize]
+        public async Task<IActionResult> GetAllProducts()
+        {
+            try
+            {
+                var products = await _productService.GetAllProducts();
+                return Ok(products);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex.Message);
+                return NotFound(ex.Message);
             }
         }
     }

@@ -2,12 +2,14 @@
 using EFCoreFirstAPI.Misc;
 using EFCoreFirstAPI.Models.DTOs;
 using EFCoreFirstAPI.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EFCoreFirstAPI.Controllers
 {
     [Route("api/[controller]")]
+    [EnableCors("AllowAll")]
     [CustomExceptionFilter]
     [ApiController]
     public class UserController : ControllerBase

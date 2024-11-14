@@ -45,7 +45,9 @@ namespace EFCoreFirstAPI.Repositories
 
         public async Task<Product> Get(int key)
         {
-            var product = await _context.Products.FirstOrDefaultAsync(p => p.Id == key);
+            var product = await _context.Products
+                .Include(p=>p.OrderDetails)//Eager loading - Include related entities. Will not load by default
+                .FirstOrDefaultAsync(p => p.Id == key);
             return product;
         }
 

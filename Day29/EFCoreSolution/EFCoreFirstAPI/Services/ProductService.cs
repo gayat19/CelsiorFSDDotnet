@@ -24,5 +24,11 @@ namespace EFCoreFirstAPI.Services
             myProduct = await _productRepository.Add(myProduct);
             return product != null;
         }
+
+        public async Task<ICollection<Product>> GetAllProducts()
+        {
+           var products = await _productRepository.GetAll();
+            return products.ToList();
+        }
     }
 }
